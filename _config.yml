@@ -33,6 +33,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
+  - minimal-mistakes-jekyll
 
 #locale
 locale: "ru-RU"
