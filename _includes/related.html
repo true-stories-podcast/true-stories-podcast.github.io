@@ -1,0 +1,21 @@
+{% if site.related_posts != empty %}
+<div class="recommended">
+  <h3 class="archive__subtitle">Вам также может понравиться</h3>
+  <div class="recommended__grid">
+    {% assign related_posts = page.related_posts | default: site.related_posts %}
+    {% for post in related_posts limit:4 %}
+    <div class="recommended__item">
+      <h4>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h4>
+      {% if post.image %}
+      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+      {% if post.excerpt %}
+      <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

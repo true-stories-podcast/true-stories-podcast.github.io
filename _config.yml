@@ -1,0 +1,99 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Непридуманные истории
+subtitle: "Это сама жизнь. И ничего не надо придумывать."
+email: neprid.isto@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  На этом сайте размещены мои подкасты. Они представляют собой звуковые истории о людях,
+  событиях, явлениях из прошлого и настоящего Орловщины, где я жил раньше,
+  и о тех новых впечатлениях, которые я черпаю теперь в Грузии.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-feed
+
+#locale
+locale: "ru-RU"
+
+include: ["_pages"]
+
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: false
+      related: true
+
+search: true
+
+permalink: '/:categories/:title' 
+
+paginate: 5
+paginate_path: '/:num/'
+
+
+
+#footer
+footer:
+  links:
+    - label: "Spotify"
+      icon: "fa-brands fa-spotify"
+      url: "https://podcasts.apple.com/ae/podcast/%D0%BD%D0%B5%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8/id1492502233"
+    - label: "Telegram"
+      icon: "fa-brands fa-telegram"
+      url: "https://t.me/nepridumannie_istorii"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:neprid.isto@gmail.com"
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Jekyll Archives
+

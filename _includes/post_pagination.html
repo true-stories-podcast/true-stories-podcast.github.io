@@ -1,0 +1,42 @@
+{% if page.id %}
+  {%- comment -%}
+    Find next/previous post links within the same category.
+  {%- endcomment -%}
+
+  {%- assign category = page.categories.first -%}
+  {%- if category -%}
+    {%- assign posts_in_category = site.categories[category] -%}
+    {%- for post in posts_in_category -%}
+      {%- if post.url == page.url -%}
+        {%- assign post_index = forloop.index0 -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- if post_index != nil -%}
+      {%- assign prev_post_index = post_index | minus: 1 -%}
+      {%- assign next_post_index = post_index | plus: 1 -%}
+
+      {%- if prev_post_index >= 0 -%}
+        {%- assign prev_in_category = posts_in_category[prev_post_index] -%}
+      {%- endif -%}
+
+      {%- if next_post_index < posts_in_category.size -%}
+        {%- assign next_in_category = posts_in_category[next_post_index] -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  <nav class="pagination">
+    {%- if prev_in_category -%}
+      <a href="{{ prev_in_category.url | relative_url }}" class="pagination--pager" title="{{ prev_in_category.title | markdownify | strip_html | strip }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+    {%- else -%}
+      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+    {%- endif -%}
+    {%- if next_in_category -%}
+      <a href="{{ next_in_category.url | relative_url }}" class="pagination--pager" title="{{ next_in_category.title | markdownify | strip_html | strip }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    {%- else -%}
+      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    {%- endif -%}
+  </nav>
+{% endif %}
