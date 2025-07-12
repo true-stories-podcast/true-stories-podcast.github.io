@@ -304,6 +304,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 232)
+  jekyll-include-cache
 
 BUNDLED WITH
    2.5.22
