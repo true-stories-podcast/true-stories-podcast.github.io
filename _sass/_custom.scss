@@ -169,3 +169,29 @@
     color: $text-color;
   }
 }
+
+/*
+ * adjustments for dynamic figure visualization
+ * including figcaption
+ */
+figure.align-center {
+  margin-bottom: 1em;
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  figcaption {
+    display: block;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+}
