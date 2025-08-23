@@ -27,7 +27,7 @@ excerpt: "Завершая четвертый сезон своих подкас
 «Я понимаю, что за такой непродолжительный срок работы сделать мало что можно было, с учетом того, что Шувалов не местный и ему пришлось вникать в нашу специфику. В принципе ничего в лучшую сторону особо не изменилось, поэтому я не могу сказать, что сожалею об уходе Станислава Шувалова». Подводит итог активистка.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748880817/titanik-scaled_y2iqxz.jpg" alt="medical_center">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748880817/titanik-scaled_y2iqxz.jpg" alt="здание недостроенного медицинского центра">
 <figcaption>Недостроенный медицинский центр.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ excerpt: "Завершая четвертый сезон своих подкас
 Издание «Орловские новости» напоминает, что «Судбищенское сражение является уникальным для России и позднего средневековья в истории Европы. Несмотря на непродолжительное время исследований, уже получены результаты, значительно превосходящие известные места сражений в Восточной Европе». Археологи нашли уже более 1,5 тысяч артефактов того времени.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748880948/nahodki-dajverov_p5emhl.jpg" alt="findings">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748880948/nahodki-dajverov_p5emhl.jpg" alt="лезвии и другие находки">
 <figcaption>Находки из Суджбищ.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ excerpt: "Завершая четвертый сезон своих подкас
 Теперь на месте раскопок планируют создать мемориал. А на базе Орловского краеведческого музея — музейно-образовательный комплекс. Для этого планируется отремонтировать здание музея на улице Гостиной. Музею предоставят дополнительные площади. А еще благоустроят сквер, который прилегает к Богоявленской площади. Его тоже присоединят к музейно-образовательному комплексу. Об этом сообщило Интернет издание «Орловские новости».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881044/loe2su9_tnvzdkmryaoostwpnih0kixncnskgh1h7h_lblczmeve0ndonybgr7q1vz7xjkspuq5w3jhswbuqo4m_gghwmz.jpg" alt="hayfield">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881044/loe2su9_tnvzdkmryaoostwpnih0kixncnskgh1h7h_lblczmeve0ndonybgr7q1vz7xjkspuq5w3jhswbuqo4m_gghwmz.jpg" alt="Людмила Сычева с косой в традиционной одежде">
 <figcaption>Людмила Сычева на сенокосе.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ excerpt: "Завершая четвертый сезон своих подкас
 Я позвонил в село Моховое, где расположена усадьба, и поинтересовался у директора местного музея Людмилы Сычевой, что нового в Шатилово она может отметить за последние годы. Пока ничего не меняется, — заметила она. — Однако удалось открыть в музее комнату » Так было в СССР». В ней представлен быт того времени.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881224/img_20220805_113052_dp4rqe.jpg" alt="exhibition">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881224/img_20220805_113052_dp4rqe.jpg" alt="помещение в старом виде">
 <figcaption>Выставка «Так было в СССР».</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ excerpt: "Завершая четвертый сезон своих подкас
 Это будет «способствовать дальнейшему развитию этих промыслов на» Орловщине, — сообщило издание «Орловские новости». Истории ливенской гармони я посвятил несколько программ, потому так заинтересовала меня эта новость. За комментарием я обратился к специалисту Орловского областного Центра народного творчества Валентине Черногоровой. Теперь у ливенской гармони появится свой товарный знак. Это еще один шаг для развития производства этого старинного инструмента в Ливнах.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881381/livenka_ocwwyj.jpg" alt="accordion">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881381/livenka_ocwwyj.jpg" alt="чёрно белый рисунок гармошки">
 <figcaption>Ливенская гармонь.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ excerpt: "Завершая четвертый сезон своих подкас
 Я поинтересовался у ведущего методиста по нематериальному культурному наследию Орловского областного центра народного творчества Валентины Черногоровой, что же относится к явлениям нематериальной культуры в сфере народного творчества.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881534/vyxas-3vfme_vplyqr.jpg" alt="woman">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748881534/vyxas-3vfme_vplyqr.jpg" alt="Валентина Черногорова">
 <figcaption>Валентина Черногорова</figcaption>
 </figure>
 

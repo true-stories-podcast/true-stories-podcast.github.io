@@ -17,7 +17,7 @@ excerpt: "Любая история, которая основана на реа
 Со временем приукрашенные человеческим воображением эти истории, начинают обрастать новыми красками и оттенками. Затем они уже продолжают жить сами по себе, своей жизнью. Ну, например, как та, о которой я рассказал, завершая второй сезон своих подкастов.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1751572994/lipa_vekovaya_wc5mov.jpg" alt="linden">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1751572994/lipa_vekovaya_wc5mov.jpg" alt="липа за полем">
 <figcaption>Лизочкины липки</figcaption>
 </figure>
 

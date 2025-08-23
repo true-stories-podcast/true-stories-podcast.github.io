@@ -18,10 +18,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<main id="main" class="site-main">
   {% include sidebar.html %}
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+  <article class="page" role="main" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
@@ -31,7 +31,7 @@ layout: default
         <header>
           {% if page.title -%}
           <h1 id="page-title" class="page__title" itemprop="headline">
-            {{ page.title | markdownify }}
+            <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>
           {%- endif %}
           {% include page__meta.html %}
@@ -61,8 +61,15 @@ layout: default
 
       {% include post_pagination.html %}
 
-    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
-      {% include comments.html %}
+    {% if site.comments.provider and page.comments %}
+      {% if jekyll.environment == 'production' %}
+        {% include comments.html %}
+      {% else %}
+        <p>
+          Comments are configured with provider: <strong>{{ site.comments.provider }}</strong>,
+          but are disabled in non-production environments.
+        </p>
+      {% endif %}
     {% endif %}
   </article>
 
@@ -73,4 +80,4 @@ layout: default
   {% elsif page.id and page.related %}
     {% include page__related.html posts=site.posts %}
   {% endif %}
-</div>
+</main>
