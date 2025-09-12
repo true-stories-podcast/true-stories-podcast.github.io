@@ -1,5 +1,5 @@
 ---
-title:  "«Чай наш грузинский»"
+title:  "«Чай наш грузинский» Часть 1"
 date:   2025-07-08 19:46:46 +0100
 categories: zelenoye-zoloto-gruzii
 header:
