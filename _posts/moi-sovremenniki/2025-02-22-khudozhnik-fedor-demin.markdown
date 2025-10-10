@@ -1,5 +1,5 @@
 ---
-title:  "Преодолевая себя"
+title:  "Художник Федор Демин"
 date:   2025-02-22 19:43:45 +0100
 categories: "moi-sovremenniki"
 header:
