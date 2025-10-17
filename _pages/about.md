@@ -3,6 +3,9 @@ layout: about
 title: "О Сайте"
 permalink: /about/
 author_profile: false
+sidebar:
+    - nav: "categories"
+    
 ---
 
 <figure class="align-center">
