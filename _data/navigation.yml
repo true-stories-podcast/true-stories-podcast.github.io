@@ -2,7 +2,7 @@
 main:
   - title: "О Сайте"
     url: "/about/"
-  - title: "Содержание"
+  - title: "Разделы"
     url: "/categories/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

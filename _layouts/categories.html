@@ -1,21 +1,50 @@
 ---
-layout: archive
+layout: splash
 ---
 
+<h1 class="page__title">{{ page.title }}</h1>
 
+<div class="grid__wrapper">
+  {%- assign category_strings = "" -%}
+  {%- for category in site.categories -%}
+    {%- if category[1].size > 0 -%}
+      {%- assign last_post_date = category[1].first.date | date: "%Y-%m-%d %H:%M:%S" -%}
+      {%- assign category_name = category[0] -%}
+      {%- capture category_string -%}{{ last_post_date }},{{ category_name }}{%- endcapture -%}
+      {%- assign category_strings = category_strings | append: category_string | append: "@@" -%}
+    {%- endif -%}
+  {%- endfor -%}
 
+  {%- assign sorted_categories_array = category_strings | split: "@@" | sort | reverse -%}
 
-{% assign categories = site.pages | where: "layout", "archive-taxonomy" | sort: "title" %}
-<ul class="categories-list">
-  {% for category_page in categories %}
-    {% assign category_name = category_page.slug %}
-    {% assign post_count = site.categories[category_name].size %}
-    {% if post_count > 0 %}
-      <li>
-        <a href="{{ category_page.url | relative_url }}">
-          {{ category_page.title }} ({{ post_count }})
-        </a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+  {%- for category_string in sorted_categories_array -%}
+    {%- if category_string != "" -%}
+      {%- assign parts = category_string | split: "," -%}
+      {%- assign category_name = parts[1] -%}
+
+      {%- comment -%}
+        Get the category page and post count
+      {%- endcomment -%}
+      {%- assign category_page = site.pages | where: "slug", category_name | first -%}
+      {%- assign post_count = site.categories[category_name].size -%}
+
+      <div class="grid__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+          {% if category_page.teaser %}
+            <div class="archive__item-teaser">
+              <a href="{{ category_page.url | relative_url }}">
+                <img src="{{ category_page.teaser | relative_url }}" alt="teaser for {{ category_page.title }}">
+              </a>
+              <span class="category-post-count">{{ post_count }} серии</span>
+            </div>
+          {% endif %}
+          <h2 class="archive__item-title no_toc" itemprop="headline">
+            <a href="{{ category_page.url | relative_url }}" rel="permalink">
+              {{ category_page.title }}
+            </a>
+          </h2>
+        </article>
+      </div>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
