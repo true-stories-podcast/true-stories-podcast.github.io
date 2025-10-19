@@ -50,6 +50,16 @@ defaults:
       comments: false
       share: false
       related: true
+      sidebar: # sidebar with all categories
+        - nav: "categories"
+  # _pages
+  - scope:
+      path: "categories"
+      type: pages
+    values:
+      layout: archive-taxonomy
+      sidebar:
+        - nav: "categories"
 
 search: true
 

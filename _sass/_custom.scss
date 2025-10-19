@@ -319,3 +319,9 @@ hr {
     display: none;
   }
 }
+
+/* custom styles for category navigation sidebar title */
+.sidebar .nav__list .nav__title {
+  margin-left: 0;
+  padding-left: 0;
+}
