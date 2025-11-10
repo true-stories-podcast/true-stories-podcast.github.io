@@ -69,7 +69,7 @@ $(document).ready(function() {
             <div class="archive__item-content">
               ${teaser_html}
               <div class="archive__item-excerpt">
-                <p itemprop="description">${store[ref].excerpt.split(" ").splice(0, 20).join(" ")}...</p>
+                <p itemprop="description">${store[ref].excerpt.split(" ").splice(0, 43).join(" ")}...</p>
               </div>
             </div>
           </article>
