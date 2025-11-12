@@ -14,16 +14,19 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: black;
+  border-radius: 12px;
 }
 
 /* teaser-image */
 .archive__item-teaser img {
-  width: 100%;
+  width: 160px;
   border-radius: 12px;
   display: block;
-  object-fit: cover;
-  aspect-ratio: 16 / 9;
   height: 152px;
+  aspect-ratio: auto;
+  object-fit: cover;
+  margin: 0 auto;
   }
 
 /* spotify-player container */
@@ -324,4 +327,8 @@ hr {
 .sidebar .nav__list .nav__title {
   margin-left: 0;
   padding-left: 0;
+}
+
+.list__item .archive__item {
+  width: 100%;
 }
