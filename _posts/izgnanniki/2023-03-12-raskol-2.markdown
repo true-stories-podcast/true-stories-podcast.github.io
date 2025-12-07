@@ -1,5 +1,5 @@
 ---
-title:  "Раскол. Часть 2"
+title:  "Раскол Часть 2"
 date:   2023-03-12 19:48:46 +0100
 categories: izgnanniki
 header:

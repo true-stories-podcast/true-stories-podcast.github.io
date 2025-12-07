@@ -1,5 +1,5 @@
 ---
-title:  "Окна и люди напротив. Часть 2"
+title:  "Окна и люди напротив Часть 2"
 date:   2024-05-11 19:47:46 +0100
 categories: litsa-iz-proshlogo
 header:
