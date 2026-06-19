@@ -4,7 +4,7 @@ date:   2026-03-12 19:48:46 +0100
 categories: batumi-i-batumchane-istoriya-i-sudby
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/37wfm8ZmvKInqTYFkTJIUK?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1781594637/osen-1920-goda.-karl-kautskij-v-batume_f8of7v.png
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781594637/osen-1920-goda.-karl-kautskij-v-batume_f8of7v.png
 excerpt: "Может ли человек предвидеть свое будущее? Трудно ответить на этот вопрос. Мечтать о будущем, планировать его, двигаться по намеченному пути – так, наверное, бывает. А вот предвидеть, предсказать… Вряд ли. Что уж тут говорить о более серьезных прогнозах, когда нам почти каждый день приносит столько непредсказуемых событий? Невольно задумываешься над тем, как бы со всем этим справиться? И все-таки у некоторых людей иногда появляется ощущение какого-то предчувствия, предвидения грядущих событий… Конечно, не всем это дано. Но по прошествии времени мы все-таки начинаем рассуждать, что правы были те, кто в свое время нас предупреждал. И случилось так, как некоторые говорили. Ведь они это предполагали, предчувствовали…"
 ---
 
@@ -15,7 +15,7 @@ excerpt: "Может ли человек предвидеть свое буду�
 И все-таки у некоторых людей иногда появляется ощущение какого-то предчувствия, предвидения грядущих событий… Конечно, не всем это дано. Но по прошествии времени мы все-таки начинаем рассуждать, что правы были те, кто в свое время нас предупреждал. И случилось так, как некоторые говорили. Ведь они это предполагали, предчувствовали…
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781595055/1922-god.-batum.-komarovskaja-ulica_fosuyf.png" alt="церковь на улице Комарова">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781595055/1922-god.-batum.-komarovskaja-ulica_fosuyf.png" alt="церковь на улице Комарова">
 <figcaption>1922 год. Батум. Комаровская улица.</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ excerpt: "Может ли человек предвидеть свое буду�
 Совершенно очевидно, что та политическая система, которую планировали создать новые молодые лидеры Грузинской Республики намного опережала свое время и могла стать примером социального государства для всего мира. Был принят «Акт о независимости Грузии». Его Пятая статья провозгласила равные права для всех граждан независимо от национальности, вероисповедания, социального положения и пола.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781595647/akt-o-gosudarstvennoj-nezavisimosti-gruzii-1918_px9zgw.jpg" alt="письменный акт о государственной независимости Грузии">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781595647/akt-o-gosudarstvennoj-nezavisimosti-gruzii-1918_px9zgw.jpg" alt="письменный акт о государственной независимости Грузии">
 <figcaption>Акт о государственной независимости Грузии (1918).</figcaption>
 </figure>
 
 В разных сферах жизни общества начались реформы. Создавалась денежно-финансовая система и формировались основы ее функционирования. Тогда же был основан Государственный банк Демократической Республики Грузии.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781596049/pravlenie-nacionalnogo-banka-gruzinskoj-demokraticheskoj-respubliki._ulwhgr.jpg" alt="правители национального банка Грузинской Демократической Республики">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781596049/pravlenie-nacionalnogo-banka-gruzinskoj-demokraticheskoj-respubliki._ulwhgr.jpg" alt="правители национального банка Грузинской Демократической Республики">
 <figcaption>Правление национального банка Грузинской Демократической Республики.</figcaption>
 </figure>
 
@@ -76,14 +76,14 @@ excerpt: "Может ли человек предвидеть свое буду�
 А еще много делалось для развития просвещения, науки и культуры. Был создан Тбилисский Государственный университет, Музей Грузии, открылась Национальная Художественная галерея. Был принят декрет о запрете вывоза из страны произведений грузинского искусства, имеющих историческую ценность.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781596456/narodnaja-gvardija-gruzinskoj-demokraticheskoj-respubliki._knndrp.jpg" alt="Народная гвардия Грузинской Демократической Республики с вооружением">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781596456/narodnaja-gvardija-gruzinskoj-demokraticheskoj-respubliki._knndrp.jpg" alt="Народная гвардия Грузинской Демократической Республики с вооружением">
 <figcaption>Народная гвардия Грузинской Демократической Республики.</figcaption>
 </figure>
 
 Летом 1920 года в молодую республику приехали делегаты Второго Интернационала. Среди них были будущий британский премьер-министр Рамсей Макдональд и теоретик социал-демократии Карл Каутский. Они воочию убедились в том, что еще в 1919 году в грузинский парламент были избраны пять женщин-депутатов. Среди них — первая демократически избранная мусульманка. Конституция Грузии на тот момент считалась одной из самых прогрессивных в мире. Кстати, ее принятие связано с Батуми. А вскоре подписавшие ее политики, вынуждены были покинуть свою родину, спасаясь от наступающей большевистской армии. Так впоследствии появилось правительство Демократической Республики Грузии в изгнании.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781594637/osen-1920-goda.-karl-kautskij-v-batume_f8of7v.png" alt="Карл Каутский на веранде дома">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781594637/osen-1920-goda.-karl-kautskij-v-batume_f8of7v.png" alt="Карл Каутский на веранде дома">
 <figcaption>Осень 1920 года. Карл Каутский в Батуме.</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ excerpt: "Может ли человек предвидеть свое буду�
 > **Осип Мандельштам. Ноябрь, 1933 года.**   
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781597996/mandelshtam.-fotografija-1930-h-godov._kddgef.jpg" alt="Осип Мандельштам с сигаретой в руках">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781597996/mandelshtam.-fotografija-1930-h-godov._kddgef.jpg" alt="Осип Мандельштам с сигаретой в руках">
 <figcaption>Осип Мандельштам. Фотография 1930-х годов.</figcaption>
 </figure>
 

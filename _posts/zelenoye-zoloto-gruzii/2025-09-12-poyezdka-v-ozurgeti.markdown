@@ -19,7 +19,7 @@ excerpt: "Когда-то в древности аргонавты похити�
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6LpZPVRzhqBevvVLBIwogw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757713929/grafiti-na-zdanii-v-ozurgeti.-scaled_elyk3k.jpg" alt="Грузинский стрит арт">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757713929/grafiti-na-zdanii-v-ozurgeti.-scaled_elyk3k.jpg" alt="Грузинский стрит арт">
 <figcaption>Граффити на здании в Озургети.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ excerpt: "Когда-то в древности аргонавты похити�
 Подъезжая к Озургети, я позвонил Георгию. Он встретил меня при въезде в город, и мы поехали на чайные плантации. Правда понял я это, только когда мы туда приехали.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757714519/georgij-huchua_a7vijv.webp" alt="Георгий Хучуа">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757714519/georgij-huchua_a7vijv.webp" alt="Георгий Хучуа">
 <figcaption>Георгий Хучуа.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ excerpt: "Когда-то в древности аргонавты похити�
 Мы приехали на небольшой участок, огражденный проволокой, видимо для того, чтобы на него не заходили животные. Позже я догадался, что плантации эти находятся в Анасеули. Это пригород Озургети.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757713827/chajnye-plantacii-v-anaseuli.-scaled_q1uqpa.jpg" alt="чайные плантации">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757713827/chajnye-plantacii-v-anaseuli.-scaled_q1uqpa.jpg" alt="чайные плантации">
 <figcaption>Чайные плантации в Анасеули.</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ excerpt: "Когда-то в древности аргонавты похити�
 Но мне не удалось поговорить с директором. Он был занят. Дал посмотреть несколько книг о чае и публикацию об институте, вышедшую в журнале «Кофе и чай в России» в 2021 году. К ней я вернусь чуть позже.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757714716/nii-s-chajnoj-istoriej-scaled_tmuyxp.jpg" alt="статья с чайной историей">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757714716/nii-s-chajnoj-istoriej-scaled_tmuyxp.jpg" alt="статья с чайной историей">
 <figcaption>Статья «НИИ с чайной историей».</figcaption>
 </figure>
 
 А Георгий повез меня на свою чайную фабрику. Сам открыл ее, и мы зашли внутрь. Было видно, что здание построено давно. Вокруг все выглядело довольно добротно и ухожено. На первом и втором этажах было много оборудования. Некоторые механизмы недавно покрашены, а некоторые зачехлены. По всему было понятно, что все они находятся в хорошем рабочем состоянии. Кругом заметен порядок и чистота. Чувствовалось, что руководит этим производством очень деловой и хороший хозяин. Я смотрел на все это и от души радовался. Побывать на чайной фабрике я даже не надеялся. Мы об этом даже не договаривались.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757714863/na-chajnoj-fabrike-v-anaseuli.-scaled_pkkjof.jpg" alt="вид на чайную фабрику">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757714863/na-chajnoj-fabrike-v-anaseuli.-scaled_pkkjof.jpg" alt="вид на чайную фабрику">
 <figcaption>На чайной фабрике в Анасеули.</figcaption>
 </figure>
 
@@ -76,24 +76,24 @@ excerpt: "Когда-то в древности аргонавты похити�
 А вот несколько фотографий, которые я сделал на чайной фабрике.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757714961/oborudovanie-chajnoj-fabriki.-scaled_ormht1.jpg" alt="оборудование на чайной фабрике">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757714961/oborudovanie-chajnoj-fabriki.-scaled_ormht1.jpg" alt="оборудование на чайной фабрике">
 <figcaption>Оборудование чайной фабрики.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757715109/mehanizmy-ustanovlennye-na-chajnoj-fabrike-v-anaseuli.-scaled_vzvvzx.jpg" alt="механизмы на чайной фабрике">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757715109/mehanizmy-ustanovlennye-na-chajnoj-fabrike-v-anaseuli.-scaled_vzvvzx.jpg" alt="механизмы на чайной фабрике">
 <figcaption>Механизмы, установленные на чайной фабрике в Анасеули.</figcaption>
 </figure>
 
 Я сделал несколько снимков старых фотографий, которые висят вдоль лестницы на второй этаж чайной фабрики. Здесь, оказывается, бывал Михаил Сергеевич Горбачев.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757715309/gorbachev-v-anaseuli-vo-vremja-digustacii-chaja.-scaled_plxpj8.jpg" alt="Горбачев в Анасеули">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757715309/gorbachev-v-anaseuli-vo-vremja-digustacii-chaja.-scaled_plxpj8.jpg" alt="Горбачев в Анасеули">
 <figcaption>Горбачев в Анасеули во время дегустации чая.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757715365/interer-chajnoj-fabriki-v-anaseuli.-1951-god.-scaled_wzor1s.jpg" alt="интерьер чайной фабрики в прошлом">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757715365/interer-chajnoj-fabriki-v-anaseuli.-1951-god.-scaled_wzor1s.jpg" alt="интерьер чайной фабрики в прошлом">
 <figcaption>Интерьер чайной фабрики в Анасеули. 1951 год.</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ excerpt: "Когда-то в древности аргонавты похити�
 Я немного прогулялся по центру города. В Озургети находится второй по величине в Грузии драматический театр. Он был построен в 1947 году. Выглядит очень внушительно. Неподалеку от него есть прекрасный исторический музей и фольклорный центр.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757715469/teatr-v-ozurgeti.-scaled_z5oloi.jpg" alt="здание театра в Озургети">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757715469/teatr-v-ozurgeti.-scaled_z5oloi.jpg" alt="здание театра в Озургети">
 <figcaption>Театр в Озургети.</figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ excerpt: "Когда-то в древности аргонавты похити�
 «Всесоюзный научно-исследовательский институт чая, субтропических культур и чайной промышленности в 1992-м году был передан в состав Академии сельскохозяйственных наук Грузии – отвечает Темур Ревишвили. – А с 2011-го года научно-исследовательский Институт чая… находится в составе Грузинского аграрного университета, одного из старейших и успешных высших заведений страны. Он основан в 1929-м году.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757715854/rabotniki-instituta-chaja-obsuzhdajut-plan-raboty.-1961-god.-scaled_kb5hbc.jpg" alt="работники института чая при обсуждение">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757715854/rabotniki-instituta-chaja-obsuzhdajut-plan-raboty.-1961-god.-scaled_kb5hbc.jpg" alt="работники института чая при обсуждение">
 <figcaption>Работники института чая обсуждают план работы. 1961 год.</figcaption>
 </figure>
 
@@ -182,5 +182,5 @@ excerpt: "Когда-то в древности аргонавты похити�
 Возвращаясь в наши дни, надо заметить, что в последнее время постепенно вырос интерес к чаеводству в Грузии. Уже появилась конкуренция внутри страны. Конечно, непросто вернуть былую славу на мировом рынке. Путь этот сложен. И все же в 2024 году Грузия отправила за рубеж 1690 тонн чая, заработав 2 миллиона 800 тысяч долларов. Это больше, чем в 2023-м году, но все же далеко до триумфа в 2022-м году, когда экспорт достиг 2 тысяч 229 тонн. Среди главных потребителей грузинского чая по-прежнему остаются такие страны, как Турция, Монголия, Казахстан и Россия. А на прилавках уже появляются новые грузинские бренды, которые стараются вернуть былую славу грузинскому чаю.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757716044/brjendy-scaled_hckoeq.jpg" alt="сорты Грузинского чая">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757716044/brjendy-scaled_hckoeq.jpg" alt="сорты Грузинского чая">
 </figure>

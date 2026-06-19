@@ -5,7 +5,7 @@ category: Наши природные ценности
 slug: "nashi-prirodnyye-tsennosti"
 permalink: /categories/nashi-prirodnyye-tsennosti/
 classes: wide
-teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1767977925/reka-oka_wza4hw.jpg
+teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767977925/reka-oka_wza4hw.jpg
 ---
 
 И у нас есть прекрасные места. Они воспеты нашими классиками.

@@ -4,7 +4,7 @@ date:   2026-03-31 19:48:46 +0100
 categories: putevyye-zametki
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/5zrfsvcEJ989FYZkraeO4t?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1781698904/20251109_112510-scaled_xkxvn2.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781698904/20251109_112510-scaled_xkxvn2.jpg
 excerpt: "В моих программах о Батуми и батумчанах звучали материалы, опубликованные в далеком прошлом. Они были написаны теми, кто приезжал сюда в предыдущие десятилетия. В основном, это были писатели, публицисты, ученые и просто путешественники. В своих публикациях они рассказывали о том, что здесь видели, что производило на них большое впечатление. Известно, что подобный вид публицистики существовал с давних времен и имел название «Путевые заметки». Он позволял рассказывать о тех местах, где, скорее всего, не смогут побывать многие из нас. Поэтому путешественники описывали характерные детали таких далеких мест. Такой же интерес к жизни глубинки был раньше и у меня. Поэтому я решил иногда делать такие подкасты."
 ---
 
@@ -21,7 +21,7 @@ excerpt: "В моих программах о Батуми и батумчана
 Я пришел опять к своему новому знакомому. Его зовут Нодар Накашидзе. И он мне рассказал историю своего рода, своих предков, которые поселись в Грузии более пятнадцати столетий тому назад. И тот подкаст я назвал «Чай князей Накашидзе».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781699033/20251109_142228-scaled_vlesmp.jpg" alt="Нодар Накашидзе у церкви">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781699033/20251109_142228-scaled_vlesmp.jpg" alt="Нодар Накашидзе у церкви">
 <figcaption>Нодар Накашидзе.</figcaption>
 </figure>
 
@@ -30,47 +30,47 @@ excerpt: "В моих программах о Батуми и батумчана
 Сначала мы поднимались в гору на машине, а потом уже пошли пешком. Мы направлялись в бывшую летнюю резиденцию князей Накашидзе. А Нодар по дороге рассказывал об этих местах, о своих предках и о полностью разрушенной крепости, когда-то построенной наверху.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781701286/20251109_113711-scaled_aw6qie.jpg" alt="y подъема к фамильной церкви княжеского рода Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781701286/20251109_113711-scaled_aw6qie.jpg" alt="y подъема к фамильной церкви княжеского рода Накашидзе">
 <figcaption>Фамильная церковь княжеского рода Накашидзе (XV век), восстановленная в 2004 году.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781701595/20251109_101949-scaled_jezdjj.jpg" alt="y входа к фамильной церкви княжеского рода Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781701595/20251109_101949-scaled_jezdjj.jpg" alt="y входа к фамильной церкви княжеского рода Накашидзе">
 </figure>
 
 Когда мы пришли, Нодар позвонил местным жителям, которые живут недалеко и являются смотрителями церкви. Ровно так же, как и предыдущие поколения из их семьи. Пришел Мераби и открыл нам церковь. Тогда Нодар начал рассказ о том, как проходило восстановление этого древнего храма.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781701684/20251109_112847-scaled_s6httx.jpg" alt="Мираби и Нодар возле фамильной церкви Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781701684/20251109_112847-scaled_s6httx.jpg" alt="Мираби и Нодар возле фамильной церкви Накашидзе">
 <figcaption>Мираби и Нодар возле церкви.</figcaption>
 </figure>
 
 Восстановление церкви произошло, как многие считают, чудесным образом и очень вовремя. Оказывается, вся конструкция этого древнего строения держалась на одном камне. А церковь стоит на самом верху горы. Если бы грунт под храмом хоть немного колыхнулся, что не редкость в горах, то храм наверняка бы рухнул. И тогда восстановить его было бы еще сложнее. Нодар показал мне, где находился этот камень, который был последней опорой для этой церкви.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781701852/20251109_104203-scaled_i9ihoj.jpg" alt="Нодар Накашидзе на ступеньках">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781701852/20251109_104203-scaled_i9ihoj.jpg" alt="Нодар Накашидзе на ступеньках">
 <figcaption>Нодар объясняет значение камня, на который он опирается.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781701935/20251109_102524-scaled_rdw58g.jpg" alt="Внутри фамильной церкви Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781701935/20251109_102524-scaled_rdw58g.jpg" alt="Внутри фамильной церкви Накашидзе">
 <figcaption>Внутри церкви.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781702022/20251109_112620-scaled_kh8c7i.jpg" alt="Усыпальница в фамильной церкви Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781702022/20251109_112620-scaled_kh8c7i.jpg" alt="Усыпальница в фамильной церкви Накашидзе">
 <figcaption>Усыпальница князей Накашидзе.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781698904/20251109_112510-scaled_xkxvn2.jpg" alt="вид на окрестности у церкви">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781698904/20251109_112510-scaled_xkxvn2.jpg" alt="вид на окрестности у церкви">
 <figcaption>Вид сверху на окрестности.</figcaption>
 </figure>
 
 После осмотра места, где находилась летняя резиденция, мы спустились вниз, к дороге, где уже кипит бурная современная жизнь. И там Нодар привел меня к церкви, которую построил его давний предок Бежан Накашидзе. И кое-что рассказал о нем.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781702322/20251109_122943-scaled_hyubf3.jpg" alt="вид на вход в церквь">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781702322/20251109_122943-scaled_hyubf3.jpg" alt="вид на вход в церквь">
 <figcaption>Церковь, построенная Бежаном Накашидзе.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ excerpt: "В моих программах о Батуми и батумчана
 А несколько лет назад там вновь проводились археологические раскопки. Об этом сообщала и грузинская пресса.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781702402/20251109_125257-scaled_enkx1k.jpg" alt="место раскопок город-крепости Вашнари">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781702402/20251109_125257-scaled_enkx1k.jpg" alt="место раскопок город-крепости Вашнари">
 <figcaption>Место, где находился город-крепость Вашнари. Здесь, у остатков храма, проходили археологические раскопки.</figcaption>
 </figure>
 
@@ -102,18 +102,18 @@ excerpt: "В моих программах о Батуми и батумчана
 И вот мы с Нодаром приехали в Вашнари. Он сообщает, что город назывался так, потому что здесь были яблоневые плантации.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781702575/20251109_125406-scaled_jmib0y.jpg" alt="Нодар Накашидзе ведёт диалог">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781702575/20251109_125406-scaled_jmib0y.jpg" alt="Нодар Накашидзе ведёт диалог">
 </figure>
 
 В завершение нашего путешествия Нодар повез меня к горе князей Накашидзе. Как потом выяснилось, он сам там никогда еще не был. На самом верху рядом с церковью установлена надгробная плита на месте захоронения предков известного в Грузии певца, композитора и собирателя народной музыки Анзора Эркомаишвили. Анзор родился в Батуми в семье с давними музыкальными традициями. Его прадед, Гиго, руководил ансамблем еще во второй половине XIX века. А дед, Артем был грузинским народным певцом-самоучкой. Сам Анзор Эркомаишвили основал знаменитый народный хор «Рустави», который десятилетиями выступал с концертами по всей Грузии и за рубежом. С этим коллективом музыкант записал около 750 грузинских народных традиционных песнопений.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781702847/20251109_140200-scaled_ziowbz.jpg" alt="мемориальная доска в честь семьи Эркомаишвили">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781702847/20251109_140200-scaled_ziowbz.jpg" alt="мемориальная доска в честь семьи Эркомаишвили">
 <figcaption>На горе князей Накошидзе покоится династия певцов и музыкантов семьи Эркомаишвили.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781702902/20251109_140048-scaled_wz78km.jpg" alt="у входа в храм князей Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781702902/20251109_140048-scaled_wz78km.jpg" alt="у входа в храм князей Накашидзе">
 <figcaption>Храм на горе князей Накашидзе.</figcaption>
 </figure>
 
@@ -126,6 +126,6 @@ excerpt: "В моих программах о Батуми и батумчана
 Сильным эмоциональным впечатлением для меня стало и то, как чувствует себя человек в тех местах, где много веков назад жили его предки. И то, как он ощущает связь с ними через глубину этих столетий.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781698541/20251109_142358-scaled_ioojxh.jpg" alt="Вид с горы князей Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781698541/20251109_142358-scaled_ioojxh.jpg" alt="Вид с горы князей Накашидзе">
 <figcaption>Вид с горы князей Накашидзе.</figcaption>
 </figure>

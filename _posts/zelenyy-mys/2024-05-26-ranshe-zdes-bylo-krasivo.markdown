@@ -15,7 +15,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Драматические сюжеты из их жизни тесно переплелись с теми потрясениями, которые происходили в стране и мире. Майя Мазуренко — профессор ботаник, она не профессиональный литератор. Однако ее повествование изложено ярким, образным языком, наполнено эмоциональной экспрессией. В самом начале автор замечает, что некоторые персонажи и события в книге являются вымышленными. В этот раз я хочу обратиться к событиям, относящимся к 50-м и 60-м годам прошлого столетия.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756394644/mazurenko-mt_dooaht.jpg" alt="Майя Мазуренко улыбается">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756394644/mazurenko-mt_dooaht.jpg" alt="Майя Мазуренко улыбается">
 <figcaption>Майя Мазуренко.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Судьба Андрея Краснова, вероятнее всего, сложилась бы иначе. Ведь его брат был известным белогвардейским казачьим атаманом.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756394985/pjotr-nikolaevich-krasnov-general-major-russkoj-imperatorskoj-armii_agxmvs.jpg" alt="Пётр Николаевич Краснов в форме генерала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756394985/pjotr-nikolaevich-krasnov-general-major-russkoj-imperatorskoj-armii_agxmvs.jpg" alt="Пётр Николаевич Краснов в форме генерала">
 <figcaption>Пётр Николаевич Краснов — генерал-майор Русской императорской армии.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 В (те времена…) экскурсоводы были очень квалифицированными. Прежде, (чем) допустить человека до этой работы, представительная комиссия старших научных сотрудников строго проверяла текст экскурсии и эрудицию экскурсовода. Студенткой Майя тоже летом работала в ботаническом саду экскурсоводом.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756395187/1948-g.-veronika-genrihovna-zelgejm-moja-mama_xm5mlp.jpg" alt="Вероника Генриховна Зельгейм. Чёрно белый снимок">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756395187/1948-g.-veronika-genrihovna-zelgejm-moja-mama_xm5mlp.jpg" alt="Вероника Генриховна Зельгейм. Чёрно белый снимок">
 <figcaption>Вероника Генриховна Зельгейм.</figcaption>
 </figure>
 
@@ -62,14 +62,14 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Иосиф Сталин позволил казачьему атаману уехать за границу, о чем позже очень сожалел и много лет спустя все же сумел расправиться с ним. Уже престарелого, Петра Краснова, по постановлению Нюрнбергского процесса, выдали СССР и повесили.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756395295/20221208_104348-scaled_bpzrja.jpg" alt="Здание дирекции в ботаническом саду">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756395295/20221208_104348-scaled_bpzrja.jpg" alt="Здание дирекции в ботаническом саду">
 <figcaption>Здание дирекции Батумского ботанического сада.</figcaption>
 </figure>
 
 Здание дирекции, где находилась библиотека, которой заведовала мать Майи, располагается на высоком приморском холме. До революции это место принадлежало Павлу Татаринову. Белое здание с башенками в мавританском стиле красиво смотрится на фоне субтропической зелени. На втором этаже – большой темный зал с лепниной на потолке. Это и есть библиотека. Стеллажи книг поднимаются до потолка. Сюда обязательно заходят приезжие ботаники, а также все, кто интересуется историей сада. Вероника Зельгейм – красивая обаятельная дама – с вниманием относится ко всем и помогает. Летом 1956 года домик Майи и ее матери, расположенный недалеко от ботанического сада, словно теремок наполнен студентами. В гости из Москвы, из университета, приехали друзья. Брат из Тбилиси — тоже студент. Рядом дом отдыха тбилисского политехнического института. Там в тот год отдыхал ансамбль «ОРЕРА». Они — тоже студенты, а в последующем – знаменитые музыканты и артисты. Среди них певцы: Буба Кикабидзе, Нани Брегвадзе. Вечерами танцевали под луной. Море, праздничная атмосфера.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756395448/via-orera-scaled_dc8vvn.jpg" alt="ансамбль выступает на сцене">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756395448/via-orera-scaled_dc8vvn.jpg" alt="ансамбль выступает на сцене">
 <figcaption>Вокально-инструментальный ансамбль ОРЕРА.</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 (Этот) очередной «сын лейтенанта Шмидта» очень огорчил Веронику. Она была в растерянности. Но, обладая счастливым свойством долго не помнить неприятностей, снова стала с обворожительным гостеприимством приглашать приезжих в гости.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756395625/zastolye_ow9td1.jpg" alt="гости на застолье">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756395625/zastolye_ow9td1.jpg" alt="гости на застолье">
 <figcaption>Застолье у дома на Зеленом мысу.</figcaption>
 </figure>
 
@@ -111,7 +111,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Чай по своей природе – небольшое дерево. Но для удобства сбора ему придают шаровидную форму, такую, чтобы сборщица чая, как правило, женщина, могла удобно, как по коридору, пробираться между кустами и на уровне груди щипать нежные ростки – флеши чая. Флешь – (это) три молодых листка, а ниже грубый листик в виде малюсенькой рыбки. Рыбий лист. Его ни в коем случае нельзя сорвать. В его пазухе (находится) почка, которая через месяц, в июне, даст новый росток – флешь.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756395734/chajnyj-kust-v-cvetu._ftz2yi.jpg" alt="чайный куст">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756395734/chajnyj-kust-v-cvetu._ftz2yi.jpg" alt="чайный куст">
 <figcaption>Чайный куст в цвету.</figcaption>
 </figure>
 
@@ -122,14 +122,14 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Майя любила наблюдать за сдачей чайного листа. Собранный чай женщины несут к платану. Там сидит контролер. (Сборщицы) подносят годорку и ставят на весы. Взвешивание чая – (уже) мужская работа. У контролера в руках весы. С одной стороны гиря, с другой – плечо, на которое вешается годорка с чаем.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756063795/sbor-chaja.-chakva.-1912-g.-foto-s.m.-prokudina-gorskogo.-1_k2xx7i.jpg" alt="рабочие собирают чай с плантации в Чакви. 1912 год">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756063795/sbor-chaja.-chakva.-1912-g.-foto-s.m.-prokudina-gorskogo.-1_k2xx7i.jpg" alt="рабочие собирают чай с плантации в Чакви. 1912 год">
 <figcaption>Сбор чая.</figcaption>
 </figure>
 
 Результат взвешивания записывается. Проверяют и качество собранного чая. Если попадается рыбий лист – чай не сортовой. Чайный лист высыпают на большое рядно. Образуется горка темно-зеленых листьев. Майя подходит, вдыхает неповторимый, терпкий запах свежего чайного листа. Днем мимо (ее) дома под шушабандой проскрипит высокими колесами арба, запряженная буйволом. На нее нагрузят рядно с чайным листом и увезут на фабрику.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756396239/batumskij-botanicheskij-sad.-majja-jekskursovod._s7f1t1.jpg" alt="Майя ведёт экскурсию в ботаническом саду">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756396239/batumskij-botanicheskij-sad.-majja-jekskursovod._s7f1t1.jpg" alt="Майя ведёт экскурсию в ботаническом саду">
 <figcaption>Батумский ботанический сад. Майя — экскурсовод.</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Эта традиция теперь уже полностью утрачена и забыта.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756396289/portret-veroniki-genrihovny.-avtor-vladimirov._ka1fe2.jpg" alt="портрет Вероники Генриховны">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756396289/portret-veroniki-genrihovny.-avtor-vladimirov._ka1fe2.jpg" alt="портрет Вероники Генриховны">
 <figcaption>Портрет Вероники Генриховны. Автор Владимиров.</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 В конце сороковых — начале пятидесятых годов все повально увлекались вышивкой крестиком. Тетка и в этом деле преуспела настолько, что вышивала очень тонко, без канвы. Долго хранила скатерть, вышитую крестиком на грубой мешковине. Никто с ней тоже не мог сравниться. Потом и это дело было заброшено.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756398677/zelenomysskaja-skala.-akvarel-v.-severova._qbbuyp.jpg" alt="картина Зелёомысская скала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756398677/zelenomysskaja-skala.-akvarel-v.-severova._qbbuyp.jpg" alt="картина Зелёомысская скала">
 <figcaption>Зеленомысская скала. Акварель В. Северова.</figcaption>
 </figure>
 
@@ -164,7 +164,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Выпал снег. Было очень хорошо. Сидели в теплой, натопленной средней комнате, а спать уходили на знаменитую кровать Вероники, купленную еще до войны. Пружины мягко проваливались. На высоких спинках блестели шарики. Хорошо!
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756398849/snegopad-na-zelenom-mysu._tir3ac.jpg" alt="снегопад. Зелёны мыс">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756398849/snegopad-na-zelenom-mysu._tir3ac.jpg" alt="снегопад. Зелёны мыс">
 <figcaption>Снегопад на Зеленом мысу.</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Через несколько дней распогодилось. Снег стал быстро таять, потекли ручьи.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756398950/sneg-na-zelenom-mysu.-akvarel-v.-severova._jxue2f.jpg" alt="картина Снег на Зелёном мысу">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756398950/sneg-na-zelenom-mysu.-akvarel-v.-severova._jxue2f.jpg" alt="картина Снег на Зелёном мысу">
 <figcaption>Снег на Зеленом мысу. Акварель В. Северова.</figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Он грустил, расставаясь с нами. Говорил, что в Москве еще зима. А тут весна в январе!
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399053/kompozitor-andrej-volkonskij._sqvdsr.jpg" alt="Андрей Волконский курит в кресле">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399053/kompozitor-andrej-volkonskij._sqvdsr.jpg" alt="Андрей Волконский курит в кресле">
 <figcaption>Композитор Андрей Волконский.</figcaption>
 </figure>
 
@@ -201,37 +201,37 @@ excerpt: "Я продолжаю знакомить вас с воспомина�
 Весна. С каждым днем становилось теплее, красивее. Об отъезде думать не хотелось. Пышно цвела мимоза, на площадке тонко распространялся аромат дафны индийской. Каскадами маленьких белых колокольчиков покрылись кусты андромеды. С детьми гуляли по даче Карелиных. Цвели подснежники. На южных склонах фиалка с маленькими душистыми цветками распространяла тонкий аромат. Пригревало солнце. Отпуск заканчивался, пора было возвращаться в Москву – пишет Майя Мазуренко.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399202/germanija.-galle.-majja-v-botanicheskom-sadu._rof7z2.jpg" alt="Майя Мазуренко в ботаническом саду в Галле">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399202/germanija.-galle.-majja-v-botanicheskom-sadu._rof7z2.jpg" alt="Майя Мазуренко в ботаническом саду в Галле">
 <figcaption>Германия. Галле. Майя в ботаническом саду.</figcaption>
 </figure>
 
 Как-то прогуливаясь по склонам Зеленого мыса и рассматривая руины бывших советских здравниц, я познакомился с Нарой Цителадзе. Она родилась в Батуми. После окончания школы, училась в Бакинском политехническом институте. Затем по распределению долгое время работала в Тбилиси.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399287/nara_d98rhp.jpg" alt="Нара Цителадзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399287/nara_d98rhp.jpg" alt="Нара Цителадзе">
 <figcaption>Нара Цителадзе.</figcaption>
 </figure>
 
 А примерно четверть века тому назад Нара Цителадзе вернулась в Батуми. По рекомендации врачей купила внуку на Зеленом мысу квартиру. Теперь за ней присматривает и часто бывает здесь.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399386/20240515_150815-scaled_tefimv.jpg" alt="заброшенное здание">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399386/20240515_150815-scaled_tefimv.jpg" alt="заброшенное здание">
 </figure>
 
 Я уговорил Нару встретиться, чтобы вспомнить годы ее детства и юности. Как было тогда на Зеленом мысе.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399544/20240515_141630-scaled_ermipr.jpg" alt="арки заброшенного здания">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399544/20240515_141630-scaled_ermipr.jpg" alt="арки заброшенного здания">
 </figure>
 
 Это удивительно, но старшее поколение с большой душевной добротой вспоминает последние десятилетия перед распадом Советского Союза. Им кажется, что жизнь тогда была яркой, запоминающейся. Не было большого достатка в семьях, но жили очень дружно. С удовольствием ждали время летних отпусков, когда Зеленый мыс заполнялся шумом голосов отдыхающих. В здравницы на Зеленом мысу приезжали гости из всех уголков страны.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399669/20240515_151239-scaled_adf9xa.jpg" alt="заброшенное здание">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399669/20240515_151239-scaled_adf9xa.jpg" alt="заброшенное здание">
 </figure>
 
 Нара вспоминает, что неподалеку от ее дома находился сельскохозяйственный институт, там она со своим внуком гуляла, когда он был совсем маленьким. Было все кругом красиво, ухожено. Теперь запустение.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756399739/20240515_150038-scaled_sdsney.jpg" alt="заброшенное здание на улице магнолия 8">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756399739/20240515_150038-scaled_sdsney.jpg" alt="заброшенное здание на улице магнолия 8">
 </figure>

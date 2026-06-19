@@ -4,7 +4,7 @@ date:   2023-03-12 19:47:46 +0100
 categories: izgnanniki
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/0sBHGyYO8VKxS9Bsm45h09?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1757501313/i.-mashkov.-car-aleksej-mihajlovich-i-patriarh-nikon_tlae1p.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757501313/i.-mashkov.-car-aleksej-mihajlovich-i-patriarh-nikon_tlae1p.jpg
 excerpt: "Эту тему подсказала мне случайная встреча и на бегу брошенная фраза. Она вдруг застряла в голове. Заставила включить компьютер и заняться поиском смысла вскользь брошенных слов. Речь шла о мрачной странице в нашей истории трехсотлетней давности. О тягостных событиях, которые раскололи тогда царедворцев, церковь и общество. Затронули очень многих людей. Казалось, происходившее тогда, должно быть совсем забыто. Ведь оно уже не может глубоко волновать ныне живущих людей. Однако, все не совсем так. Потому что происходившее во второй половине XVII века в России стало сильнейшим потрясением и тяжелейшим испытанием для всей страны, всего разноликого общества того времени. И отзвуки тех событий слышны до сих пор."
 ---
 
@@ -29,7 +29,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 В 1646 году Никон приехал по монастырским делам в Москву. И тут он впервые встретился с юным царем Алексеем Михайловичем. Царю было тогда 16 лет, а Никону – больше сорока. Никон произвел на царя очень благоприятное впечатление. Ему понравились его глубокая религиозность, аскетизм, хорошие знания церковной литературы, живой и благородный нрав. Поэтому молодой монарх назначил Никона архимандритом Новоспасского монастыря в Москве. А это была тогда усыпальница рода Романовых.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757501313/i.-mashkov.-car-aleksej-mihajlovich-i-patriarh-nikon_tlae1p.jpg" alt="картина Царь Алексей Михайлович и патриарх Никон">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757501313/i.-mashkov.-car-aleksej-mihajlovich-i-patriarh-nikon_tlae1p.jpg" alt="картина Царь Алексей Михайлович и патриарх Никон">
 <figcaption>И. Машков. Царь Алексей Михайлович и патриарх Никон.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 Чуть раньше патриарх Иерусалимский Паисий и образованный грек Арсений указывали патриарху Иосифу на ряд ошибок в богослужебных книгах и церковных обрядах, которые не соответствовали и греческим образцам. Поэтому царь Алексей Михайлович попросил прислать из Киева в Москву «ученых мужей», знавших греческий язык. Эти киевские монахи: Епифаний Славинецкий и Арсений Сатановский еще при жизни патриарха Иосифа сумели исправить по греческому тексту книгу «Шестоднев».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757501471/perepisyvanie-drevnih-tekstov_mqgblj.jpg" alt="рисунок переписывания древних текстов">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757501471/perepisyvanie-drevnih-tekstov_mqgblj.jpg" alt="рисунок переписывания древних текстов">
 <figcaption>Переписывание древних текстов.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 А началось все в 1653 году, когда Никон распорядился заменить земные поклоны поясными и ввел троеперстие вместо двуперстия. Такое решение с большим негодованием было встречено верующими. К тому же, Никон потребовал заменить сугубую аллилуйю на трегубую, хождение в крестных ходах не по солнцу, а против солнца. Имя Исус, имевшее магическую силу, было исправлено на Иисус. А еще патриарх вызвал в Москву из Греции и Малороссии знатоков партесного пения. И началось исправление крюкового написания церковных песнопений на пение по нотам.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757501576/vnesjonnye-nikonom-novye-dogmaty-.-illjustracija-iz-istorii-ob-otcah-i-stradalcah-soloveckih-xviii-vek_doqatg.png" alt="иллюстрация «Внесённые Никоном новые догматы»">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757501576/vnesjonnye-nikonom-novye-dogmaty-.-illjustracija-iz-istorii-ob-otcah-i-stradalcah-soloveckih-xviii-vek_doqatg.png" alt="иллюстрация «Внесённые Никоном новые догматы»">
 <figcaption>«Внесённые Никоном новые догматы». Иллюстрация из «Истории об отцах и страдальцах Соловецких», XVIII век.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 Тут надо отметить, что все было тогда не так однозначно в позиции противоборствующих сторон. И те и другие из них имели вполне весомые аргументы. Так, неприятие оппозицией церковных нововведений имело под собой глубинное духовно-нравственное основание. Ее представители с самого начала высказывали опасение потери русской этничности и идентичности перед Западом, что могло нарушить основы традиционного русского быта. Потому они хотели всячески укрыться от ненавистного им западничества в недрах русского православного изоляционизма.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757501775/avvakum_in_siberia-puteshestvie-avvakuma-po-sibiri-kartina-s.-miloradovicha-holst-maslo-1898_af3ecn.jpg" alt="картина «Путешествие Аввакума по Сибири»">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757501775/avvakum_in_siberia-puteshestvie-avvakuma-po-sibiri-kartina-s.-miloradovicha-holst-maslo-1898_af3ecn.jpg" alt="картина «Путешествие Аввакума по Сибири»">
 <figcaption>«Путешествие Аввакума по Сибири» (картина С. Милорадовича, холст, масло, 1898).</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 Вот один из примеров того времени. До «Соборного уложения» 1649 года «высшее духовенство подлежало непосредственному суду царя. Суд бояр был для них унижением. По новому законодательству они стали подчиняться Монастырскому приказу, государственному органу, состоявшему исключительно из светских чиновников, наравне со своими крестьянами. В компетенцию Монастырского приказа перешло и все судопроизводство над духовенством по недуховным делам, а также контроль над церковными вотчинами. Кроме того, в соответствии с «Соборным уложением», было запрещено церкви приобретать и принимать в заклад служилые вотчины» — об этом пишет в статье под названием «РУССКИЙ РЕЛИГИОЗНЫЙ РАСКОЛ» известный российский историк Сергей Реснянский.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757501964/a.-kivshenko.-cerkovnyj-cobor.-1654-god.-nachalo-raskola_eryex2.jpg" alt="картина где Патриарх Никон пересматривает богослужебные книги.">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757501964/a.-kivshenko.-cerkovnyj-cobor.-1654-god.-nachalo-raskola_eryex2.jpg" alt="картина где Патриарх Никон пересматривает богослужебные книги.">
 <figcaption>А. Кившенко. Церковный cобор. 1654 год. Начало раскола.</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 Патриарх Никон был человеком доброй души. И, в отличии от бояр, не занимался интригами, с помощью которых они разрушили его дружбу с царем Алексеем Михайловичем. Монарху они внушали мысль о том, что в стране царит двоевластие. Что патриарх, как римский папа, считает свою власть выше власти светской, и он стал опасным конкурентом для царя. Заявляли даже, что Никон будто бы хочет поменять православную веру на иноверческую ересь. И это все при том, что патриарх был самым убежденным славянофилом и даже не помышлял ни о каком изменении веры.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757502376/chjornyj-sobor.-vosstanie-soloveckogo-monastyrja-protiv-novopechatnyh-knig-v-1666-godu_dmzbwx.jpg" alt="картина с восстанием соловецкого монастыря против новопечатных книг">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757502376/chjornyj-sobor.-vosstanie-soloveckogo-monastyrja-protiv-novopechatnyh-knig-v-1666-godu_dmzbwx.jpg" alt="картина с восстанием соловецкого монастыря против новопечатных книг">
 <figcaption>Чёрный собор. Восстание соловецкого монастыря против новопечатных книг в 1666 году.</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 А уже в 1667 году Никон также был осужден Собором за по пытку с его стороны превышения власти патриаршей над властью царской. Никон был лишен патриаршего сана и простым монахом был сослан в Белозёрский Ферапонтов монастырь.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757502546/sud-nad-patriarhom-nikonom_kppr8u.jpg" alt="картина с судом над патриархом Никоном">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757502546/sud-nad-patriarhom-nikonom_kppr8u.jpg" alt="картина с судом над патриархом Никоном">
 <figcaption>Суд над патриархом Никоном.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ excerpt: "Эту тему подсказала мне случайная вст�
 В том же 1682 году был казнен протопоп Аввакум, а также его сторонники «за великие на царский дом хулы». Они были сожжены заживо в Пустозёрске, который находился в устье реки Печоры на берегу Ледовитого океана.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757502754/p.-mjasoedov.-sozhzhenie-protopopa-avvakuma_wrduul.jpg" alt="сожжение протопопа Аввакума">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757502754/p.-mjasoedov.-sozhzhenie-protopopa-avvakuma_wrduul.jpg" alt="сожжение протопопа Аввакума">
 <figcaption>П. Мясоедов. Сожжение протопопа Аввакума.</figcaption>
 </figure>
 

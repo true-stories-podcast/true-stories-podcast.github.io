@@ -4,14 +4,14 @@ date:   2026-01-26 19:46:46 +0100
 categories: batumi-i-batumchane-istoriya-i-sudby
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/4QMICNserVChYruUpvfW5F?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1776357959/ves-gorod-sverhu_sish7z.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776357959/ves-gorod-sverhu_sish7z.jpg
 excerpt: "В удивительное время мы живем. Люди, находящиеся за тысячи километров друг от друга, могут сегодня легко в режиме реального времени общаться, обмениваться информацией, выполнять сообща полезную работу. В прошлый раз я рассказал о том, как недавно были изданы три книги о Батуми и батумчанах на русском языке. Материалы для публикации двух из них издатель и редактор готовили, находясь на расстоянии, работали, как говорят, дистанционно."
 ---
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QMICNserVChYruUpvfW5F?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776357959/ves-gorod-sverhu_sish7z.jpg" alt="Батуми в птичьем полёте">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776357959/ves-gorod-sverhu_sish7z.jpg" alt="Батуми в птичьем полёте">
 </figure>
 
 В удивительное время мы живем. Люди, находящиеся за тысячи километров друг от друга, могут сегодня легко в режиме реального времени общаться, обмениваться информацией, выполнять сообща полезную работу.
@@ -21,7 +21,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 Издатель — Баграт Тавберидзе — живет в Грузии, в Батуми. Беседу с ним можно послушать в предыдущем подкасте. С другим участником этого проекта с — Валерием Новарро — я познакомился так же, как и Баграт, с помощью Интернета. Потому что живет он за 3 тысячи километров от Батуми — в Латвии, в Риге. Его рассказ о том, как он редактировал последние две книги, я тоже записал, что называется, в режиме онлайн.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776358175/bagrat-tavberidze-i-valerij-novarro_d7eml3.png" alt="Баграт Тавберидзе и Валерий Новарро в парке">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776358175/bagrat-tavberidze-i-valerij-novarro_d7eml3.png" alt="Баграт Тавберидзе и Валерий Новарро в парке">
 <figcaption>Баграт Тавберидзе и Валерий Новарро.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 Но он показался мне уже не родным. Я имею ввиду не только новые застройки вдоль моря, напоминающие то ли Арабские Эмираты, то ли турецкую Анталью. Я говорю о старом городе, небольшие дома которого надстроены, перестроены, к которым приделаны флигели, прилеплены башенки и балконы. Везде огромные вывески отелей, магазинов, кафе и ресторанов. Может быть, все это и неплохо, ведь курортный город нуждается в такой инфраструктуре. Но хотелось бы видеть некий общий продуманный план, какую-то архитектурную и дизайнерскую идею с соответствующим художественным оформлением. Самый яркий пример, на мой взгляд, такой архитектурной безвкусицы — отель-казино в виде огромного «кирпича», как бы встроенного в прекрасное здание старой почты, от которой осталась только красивая фасадная стена…
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776358439/oteli-rjedison-i-meridian-_ww3tpg.png" alt="вид на Отели «Рэдиссон» и «Меридиан» с набережной Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776358439/oteli-rjedison-i-meridian-_ww3tpg.png" alt="вид на Отели «Рэдиссон» и «Меридиан» с набережной Батуми">
 <figcaption>Отели «Рэдиссон» и «Меридиан».</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 В этом дворе прозвенел и первый, и последний наш школьный звонок. (Здесь) мы пережили смерть вождя и радовались запуску первого искусственного спутника Земли. В (этом дворе) проходили уроки физкультуры и военного дела. Сюда мы выбегали на переменах, чтобы порезвиться. Очень много интересного видел этот двор.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776358570/byvshaja-shkola-3_fzkdyc.png" alt="старый снимок бывший школы №3">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776358570/byvshaja-shkola-3_fzkdyc.png" alt="старый снимок бывший школы №3">
 <figcaption>Бывшая школа №3.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 В 90-е годы (двор) завалили останками уже разрушенной школы, которую оградили затем глухим забором. От здания школы осталась только его правая боковая стена, примыкающая к жилому дому, в котором жил мой одноклассник Олег Мурга. Почему-то эти развалины стоят уже много лет, хотя вокруг давно выросли новые высотные здания? Очевидно, идет борьба за очень дорогую землю. Но это лишь мое предположение…
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776358850/ostatok-staroj-steny-shkoly_efv5so.png" alt="разрушенное здание школы">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776358850/ostatok-staroj-steny-shkoly_efv5so.png" alt="разрушенное здание школы">
 <figcaption>Остаток старой стены школы.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 Полюбовавшись новым симпатичным, со вкусом выкрашенным домом, мы с Мишей зашли во двор. Перед нами предстало удручающее зрелище. Этот двор, с еле дышащим домом, остался единственным во всем квартале, застроенным современными высотными гостиницами из стекла и бетона…
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776359091/2008-god.-moskva.-valerij-novarro-v-gostjah-u-druga_kdwxnv.png" alt="Валерий Новарро и Шамиль Булатов за столом">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776359091/2008-god.-moskva.-valerij-novarro-v-gostjah-u-druga_kdwxnv.png" alt="Валерий Новарро и Шамиль Булатов за столом">
 <figcaption>2008 год. Москва. Валерий Новарро в гостях у друга Шамиля Булатова.</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 В нашем дворе, имевшем П-образную форму, второй этаж был надстроен только по двум сторонам дома.  Поэтому все проволоки сходились к центру, а блоки крепились к стволу огромного орехового дерева.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776359538/chast-nashego-dvora_r8uc5i.png" alt="остатки двора">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776359538/chast-nashego-dvora_r8uc5i.png" alt="остатки двора">
 <figcaption>Оставшаяся часть двора детства…</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 Совсем недалеко от набережной, перед большими причалами, приютился рыболовецкий флот – сейнеры и небольшие баркасы. Когда рыбаки возвращались с уловом, прямо на причале можно было купить свежую рыбу. А рыбаки, ловившие с лодок, разносили свежую и копченую рыбу по дворам ближайших к порту домов. И часто из таких дворов по округе разносился вкусный запах жареной хамсы, барабульки и камбалы.»
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776359665/port_mvqntj.jpg" alt="вид на маяк морского порта">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776359665/port_mvqntj.jpg" alt="вид на маяк морского порта">
 <figcaption>Морской порт.</figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ excerpt: "В удивительное время мы живем. Люди, на
 Ушло время Порто-франко, время Паустовского, Мандельштама, Есенина, Горького, время послевоенного выживания и время нашей молодости. Наступило время разрушения старого и созидания нового. И об этом уже напишет новое поколение…».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776359941/1_eacli4.jpg" alt="Валерий Новарро с книгой в руках">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776359941/1_eacli4.jpg" alt="Валерий Новарро с книгой в руках">
 <figcaption>Валерий Новарро из Риги с любовью.</figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ category: Мои современники
 slug: "moi-sovremenniki"
 permalink: /categories/moi-sovremenniki/
 classes: wide
-teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1760099246/bolhov-sverhu-scaled_mfhtwo.jpg
+teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760099246/bolhov-sverhu-scaled_mfhtwo.jpg
 ---
 В этом разделе рассказывается о необычных и выдающихся людях, которые живут рядом.
 

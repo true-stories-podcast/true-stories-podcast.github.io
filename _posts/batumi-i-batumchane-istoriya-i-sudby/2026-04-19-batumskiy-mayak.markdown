@@ -19,21 +19,21 @@ excerpt: "Писатель Константин Паустовский мног�
 Почти у каждого места, здания, дерева в Батуми есть своя история. Она может быть правдивой, а может быть выдуманной. И хорошо, что в памяти батумчан еще сохраняются воспоминания об этих ярких, порой, невероятных историях. Кое-что они рассказывают своим детям, друзьям и гостям. Но со временем что-то забывается, уходит в прошлое. Это неизбежно. И только благодаря любознательности таких писателей, как Паустовский, некоторые истории из прошлого Батуми сохранятся в памяти будущих поколений.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781796730/paustovskij-s-sobakoj._cv4ixi.jpg" alt="Константин Паустовский с собакой">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781796730/paustovskij-s-sobakoj._cv4ixi.jpg" alt="Константин Паустовский с собакой">
 <figcaption>Паустовский с собакой.</figcaption>
 </figure>
 
 Несколько памятных страниц из жизни Константина Паустовского. В 1967 году он поддержал писателя Александра Солженицына, написавшего письмо с требованием отменить цензуру литературных произведений. Это даже сегодня звучит сенсационно. А для того времени это в принципе было не возможно.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781796899/aleksandr-solzhenicyn.-scaled_vh8ssd.jpg" alt="Александр Солженицын">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781796899/aleksandr-solzhenicyn.-scaled_vh8ssd.jpg" alt="Александр Солженицын">
 <figcaption>Александр Солженицын.</figcaption>
 </figure>
 
 Продолжительное время Паустовский болел астмой, к тому же, он перенес несколько инфарктов. Казалось бы, человеку в таком положении должно быть уже многое не интересно. Но он вдруг незадолго до смерти написал письмо председателю Правительства страны Алексею Косыгину, в котором попросил его не увольнять главного режиссера Театра на Таганке Юрия Любимова. За письмом последовал телефонный разговор с Косыгиным, в котором Константин Георгиевич сказал: «С вами говорит умирающий Паустовский. Я умоляю вас не губить культурные ценности нашей страны. Если вы снимете Любимова, распадется театр, погибнет большое дело.» В результате приказ об увольнении в то время не был подписан.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781796971/jurij-ljubimov._l8dsio.jpg" alt="Юрий Любимов">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781796971/jurij-ljubimov._l8dsio.jpg" alt="Юрий Любимов">
 <figcaption>Юрий Любимов.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ excerpt: "Писатель Константин Паустовский мног�
 В книге Константина Паустовского «Бросок на юг» есть глава, которая посвящена необычной истории, связанной с Батумским маяком. Он находился на берегу моря, недалеко от редакции газеты.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781797061/majak._nkde7k.png" alt="Маяк. Батум">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781797061/majak._nkde7k.png" alt="Маяк. Батум">
 </figure>
 
 Первый маяк в Батуме был построен в 1863 году, еще во время османского правления. Второй маяк построили уже российские власти в 1878 году. А в 1882 году французские инженеры возвели каменный маяк, который стоит до сих пор. Он представляет собой башню высотой в 21 метр, которая расположена на краю мыса Бурун-Табие. В прошлом огни маяка были белыми, теперь они красные.
@@ -66,7 +66,7 @@ excerpt: "Писатель Константин Паустовский мног�
 Петр Шмидт был строевым офицером. Он окончил Морской корпус, где готовили профессиональные кадры флотского офицерства. Его участие в революционных событиях стало своеобразным пятном для всего императорского флота. Шмидта за это даже пытались объявить сумасшедшим, чтобы спасти честь мундира, дискредитировать бунт на крейсере «Очакове» и в целом революционное движение на флоте. Сделать этого не удалось.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781797516/lejtenant-petr-shmidt-v-1905-godu._mpe2pa.jpg" alt="лейтенант Пётр Шмидт в мундире">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781797516/lejtenant-petr-shmidt-v-1905-godu._mpe2pa.jpg" alt="лейтенант Пётр Шмидт в мундире">
 <figcaption>Лейтенант Пётр Шмидт в 1905 году.</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ excerpt: "Писатель Константин Паустовский мног�
 Он завидовал его благородству, смелости и его способности к самопожертвованию. Он завидовал ему как будущему герою, трибуну, вождю.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781797715/lejtenant-pjotr-shmidt-v-1905-godu._hfbsqi.jpg" alt="лейтенант Пётр Шмидт в мундире сидя на стуле">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781797715/lejtenant-pjotr-shmidt-v-1905-godu._hfbsqi.jpg" alt="лейтенант Пётр Шмидт в мундире сидя на стуле">
 <figcaption>Лейтенант Пётр Петрович Шмидт. 1905 год.</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ excerpt: "Писатель Константин Паустовский мног�
 Это слава! Это величие!
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781798033/komanda-krejsera-ochakov-za-dve-nedeli-do-vosstanija-1905-g.-i-lejtenant-shmidt-v-verhnem-pravom-uglu_iy8pvh.jpg" alt="команда на крейсере «Очаков»">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781798033/komanda-krejsera-ochakov-za-dve-nedeli-do-vosstanija-1905-g.-i-lejtenant-shmidt-v-verhnem-pravom-uglu_iy8pvh.jpg" alt="команда на крейсере «Очаков»">
 <figcaption>Команда крейсера «Очаков» за две недели до восстания 1905 года и лейтенант Пётр Шмидт в верхнем правом углу фотогрвфии.</figcaption>
 </figure>
 
@@ -323,7 +323,7 @@ excerpt: "Писатель Константин Паустовский мног�
 Из номера «Северной гостиницы», где она остановилась, виднелась Артиллерийская бухта, — как раз то место, где Шмидта, бросившегося вплавь вместе с маленьким сыном с горящего и тонущего «Очакова», подобрал миноносец и доставил на корабль «Ростислав». Там Шмидт был арестован.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781798231/shmidta-pod-konvoem-vedut-k-zdaniju-suda_ynlkqg.jpg" alt="лейтенанта Шмидта под вооружённым конвоем ведут к зданию суда">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781798231/shmidta-pod-konvoem-vedut-k-zdaniju-suda_ynlkqg.jpg" alt="лейтенанта Шмидта под вооружённым конвоем ведут к зданию суда">
 <figcaption>Лейтенанта Шмидта под конвоем ведут к зданию суда.</figcaption>
 </figure>
 
@@ -348,6 +348,6 @@ excerpt: "Писатель Константин Паустовский мног�
 Удивительно, что во время последней войны вокзальные тополя в Севастополе, говорят, уцелели.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1781798426/batumskij-majak-segodnja._vos6kk.jpg" alt="Батумский маяк и башня Алфавит">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1781798426/batumskij-majak-segodnja._vos6kk.jpg" alt="Батумский маяк и башня Алфавит">
 <figcaption>Батумский маяк сегодня.</figcaption>
 </figure>

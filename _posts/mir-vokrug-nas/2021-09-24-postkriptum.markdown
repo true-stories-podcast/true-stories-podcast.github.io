@@ -4,12 +4,12 @@ date:   2021-09-24 19:45:45 +0100
 categories: mir-vokrug-nas
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/7A6DgsD8rbKvlZVzkZYCl9?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: "https://res.cloudinary.com/dqt3l509c/image/upload/v1752349312/voda_k4hdhc.jpg"
+    teaser: "https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1752349312/voda_k4hdhc.jpg"
 excerpt: "Со временем все вокруг нас меняется. Не зря говорят про воду в реке, в которую нельзя войти дважды. И, к тому же, добавляют, что за все в жизни надо платить. Либо в прямом смысле слова, либо здоровьем, а еще страданиями и потерями. Увы, это и есть сама жизнь. За последние 17 лет я сменил много профессий. Ни одна из них не стала для меня главной. И вот когда окончательно сказал себе: все, надо этот процесс прекратить… В этот момент случилось неожиданное"
 ---
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1752349312/voda_k4hdhc.jpg" alt="озеро">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1752349312/voda_k4hdhc.jpg" alt="озеро">
 <figcaption>Этот мир постоянно меняется и находится в непрерывном движении.</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ excerpt: "Со временем все вокруг нас меняется. Н�
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7A6DgsD8rbKvlZVzkZYCl9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1749064707/postkriptum-scaled_ydgg2n.jpg" alt="слушатели во время рассказа">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1749064707/postkriptum-scaled_ydgg2n.jpg" alt="слушатели во время рассказа">
 <figcaption>Рассказ о творчестве Василия Жуковского в музее изобразительных искусств.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ excerpt: "Со временем все вокруг нас меняется. Н�
 Целый месяц я потратил на изучение вопроса. Еще два месяца — на поиск и приобретение необходимых технических средств. Затем два месяца мучительно осваивал новые для себя компьютерные технологии. Но самым сложным оказался поиск ресурсов, то есть площадок, на которых я мог бы разместить свои подкасты. Почти везде требовались деньги, чего у меня никогда не водилось. А уж, тем более, сейчас.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1749064999/podkast-scaled_klekxn.jpg" alt="рабочие место подкастера">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1749064999/podkast-scaled_klekxn.jpg" alt="рабочие место подкастера">
 <figcaption>Вот то, что нужно, чтобы делать подкасты.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ excerpt: "Со временем все вокруг нас меняется. Н�
 Меня же подкасты заинтересовали исключительно тем, что давали мне возможность хотя бы на какое-то время почувствовать себя в прежней профессии. И так, как я себе ее представляю. Теперь понимаю, что выгляжу очень архаично и не современно. Может быть, совсем не вписываюсь в это подкастовое пространство.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1749065124/mir-izmenilsja-scaled_vrgnzt.jpg" alt="Юрий Копытов у статуи">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1749065124/mir-izmenilsja-scaled_vrgnzt.jpg" alt="Юрий Копытов у статуи">
 <figcaption>Мир изменился.</figcaption>
 </figure>
 

@@ -4,12 +4,12 @@ date:   2024-02-10 19:47:46 +0100
 categories: na-kholmakh-gruzii
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/153D7Yx5CyCqeLPsoegGxX?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1756489434/svjataja-blagovernaja-carica-tamara.-freska-v-monastyre-vardzia_ygf520.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756489434/svjataja-blagovernaja-carica-tamara.-freska-v-monastyre-vardzia_ygf520.jpg
 excerpt: "Святая благоверная царица Тамара. Фреска в монастыре Вардзиа. Мне не известно, проводился ли в Грузии когда-нибудь опрос по поводу того, кого здесь считают самой важной исторической фигурой в прошлом. Уверен, что несомненным лидером в нем стала бы Царица Тамара, причем с огромным отрывом. Практически для всех в стране она является такой исторической личностью, которая до сих пор объединяет людей всех поколений и служит примером того, как следует управлять страной, чтобы достичь ее процветания."
 ---
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756489434/svjataja-blagovernaja-carica-tamara.-freska-v-monastyre-vardzia_ygf520.jpg" alt="фреска царицы Тамары">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756489434/svjataja-blagovernaja-carica-tamara.-freska-v-monastyre-vardzia_ygf520.jpg" alt="фреска царицы Тамары">
 </figure>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/153D7Yx5CyCqeLPsoegGxX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -23,7 +23,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Рассказывать о грузинской Царице Тамаре нелегко. Исторического материала о ней на русском языке не так уж и много. И он относится в основном к советскому периоду. Сейчас, я уверен, грузинские историки более глубоко изучили эпоху, связанную с именем Царицы Тамары. Однако результат современных научных исследований мне практически не доступен. К тому же, не все молодые ученые в Грузии говорят по-русски и не каждый из них готов обсуждать эту тему. Теперь на весах исторической науки очень скрупулезно взвешивается каждое слово.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756490022/svjataja-blagovernaja-carica-tamara_obsocy.jpg" alt="рисунок царицы Тамары">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756490022/svjataja-blagovernaja-carica-tamara_obsocy.jpg" alt="рисунок царицы Тамары">
 <figcaption>Святая благоверная царица Тамара.</figcaption>
 </figure>
 
@@ -32,14 +32,14 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Я познакомился с некоторыми доступными мне материалами о Царице Тамаре. В основном это очень старые документы и публикации. Они доступны на русском языке. Некоторые из них составлены, вероятно, современниками правительницы. Они очень лаконичны. В них не так много подробных описаний ее жизни. При этом, каждое слово довольно емко отражает каждый ее шаг, каждое решение и каждый ее поступок. И чем дальше уходит в прошлое время ее правления, тем более значительнее становится этот период в истории Грузии.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756554586/cerkov-caricy-tamary.-scaled_vsyiyw.jpg" alt="церковь царицы Тамары в наше время">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756554586/cerkov-caricy-tamary.-scaled_vsyiyw.jpg" alt="церковь царицы Тамары в наше время">
 <figcaption>Церковь царицы Тамары.</figcaption>
 </figure>
 
 Прошлый раз я рассказал о церкви Святой Благоверной Тамары, которая стоит на окраине Батуми, в местечке, которое называется поселок Тамары. Появилась она на проспекте Тамары, на вершине горы Тамары, рядом с крепостью Тамары в 2001 году. Познакомившись с прихожанином этой церкви Гурамом Цитлидзе, я спросил его, почему назвали церковь в честь Царицы Тамары? Он сказал, что существует легенда, будто бы войско вместе с Тамарой проходило в этих местах. Грязь со своей обуви воины сбрасывали в кучу. В результате этого образовалась небольшая гора, которую и назвали в честь Тамары. Вероятно, Тамара действительно проезжала мимо этого места. Другого пути в то время здесь не было, — считает Гурам Цитлидзе.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756554779/guram-2-scaled_qu96zn.jpg" alt="Гурам Цитлидзе в синей куртке">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756554779/guram-2-scaled_qu96zn.jpg" alt="Гурам Цитлидзе в синей куртке">
 <figcaption>Гурам Цитлидзе</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 «История и восхваление царей» — это один из самых старых литературных памятников эпохи царствования Царицы Тамары. Сочинение принадлежит перу неизвестного автора. В нем последовательно описываются времена правления Георгия III, царицы Тамары и ее мужа — Давида Сослани.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756554916/istorija-i-voshvalenie-vencenoscev_ngtrco.jpg" alt="текст истории и восхваление венценосцев">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756554916/istorija-i-voshvalenie-vencenoscev_ngtrco.jpg" alt="текст истории и восхваление венценосцев">
 <figcaption>История и восхваление венценосцев.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Об этом и идет речь в историческом сочинении, рукопись которого была найдена в 1923 году. Этот труд ананимного автора и историка эпохи Царицы Тамары известен под названием: «Жизнь царицы цариц Тамар». По всей видимости, автор этот тоже был приближенным к Царице Тамаре, так как в своем повествовании демонстрирует наблюдательность человека, который явно был хорошо знаком со многими событиями того времени. Он был осведомлен о внешнеполитической деятельности правительницы, знал внутреннюю жизнь царского двора. Поэтому одни исследователи полагают, что автором этого сочинения мог быть придворный историк Босили. Другие считают, что этот текст принадлежит перу изветного поэта того времени Шота Руставели. Единого мнения по поводу авторства этого исторического сочинения пока, похоже, не сложилось.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555241/m._berdznishvili__zhizn_tsaritsy_tsarits_tamar_x4zo7q.jpg" alt="обложка книги жизнь царицы цариц Тамар">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555241/m._berdznishvili__zhizn_tsaritsy_tsarits_tamar_x4zo7q.jpg" alt="обложка книги жизнь царицы цариц Тамар">
 </figure>
 
 Я же процитирую несколько фрагментов из него. В самом начале своего повествования анонимный автор описывает внешность царицы Тамары: «Правильно сложённое тело, темный цвет глаз и розовая окраска белых ланит; застенчивый взгляд, манера царственно вольно метать взоры вокруг себя, приятный язык, веселая и чуждая всякой развязности, услаждающая слух речь, чуждый всякой порочности разговор».
@@ -89,7 +89,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Описывая реакцию царицы Тамары на решение выдать ее замуж за Юрия, неизвестный историк сообщает, что тогда не по возрасту рассудительная, она заявила: «Как можно сделать такой необдуманный шаг? Дайте мне переждать, пока не увидите достоинства или недостатки его». Но придворные добились от нее согласия, устроили пышную свадьбу. Вот как описывается она в сочинении «История и восхваление венценосцев»: «многочисленные зрелища, подношение драгоценных камней, жемчугов, золота кованного и в слитках, дорогих тканей, сшитых и в отрезах; веселье, развлеченье, подношение и одарение продолжались целую неделю» — конец цитаты.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555339/torzhestvennoe-pribytie-knjazja-jurija-v-tbilisi.-hud.-s.b.-savlaev_bff3rz.png" alt="картина Торжественное прибытие князя Юрия в Тбилиси">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555339/torzhestvennoe-pribytie-knjazja-jurija-v-tbilisi.-hud.-s.b.-savlaev_bff3rz.png" alt="картина Торжественное прибытие князя Юрия в Тбилиси">
 <figcaption>Торжественное прибытие князя Юрия в Тбилиси. Худ. С.Б. Савлаев.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Как и где закончилась жизнь Юрия, не известно. А вот Царица Тамара вышла замуж второй раз. Она вступила в новый брак с другом детства, аланским царевичем Давидом Сосланом.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555479/queen_tamar_and_soslan-david._from_the_painting_by_g._kotayev_b._sanakoyev_and_u._gassiyevcarica-tamara-i-soslan-david._hkbb29.jpg" alt="картина Царица Тамара и Давид Сослан">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555479/queen_tamar_and_soslan-david._from_the_painting_by_g._kotayev_b._sanakoyev_and_u._gassiyevcarica-tamara-i-soslan-david._hkbb29.jpg" alt="картина Царица Тамара и Давид Сослан">
 <figcaption>Царица Тамара и Давид Сослан.</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 «Я отец сирых и судья вдов», — говорила о себе она. И действительно, своими решениями она несла народу милость и правду. Христианство и гражданственность распространялись в то время среди горцев. Ее имя с одинаковым благоговением описывается в поэтических сказаниях того времени у различных народностей Кавказа. Во времена ее правления Шота Руставели написал известную всему миру поэму «Витязь в тигровой шкуре», являющийся шедевром грузинской и мировой литературы.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555597/krepost-tamary-so-storony-tiflisa._gqbg5u.jpg" alt="чёрно белое фото крепости">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555597/krepost-tamary-so-storony-tiflisa._gqbg5u.jpg" alt="чёрно белое фото крепости">
 <figcaption>Крепость Тамары со стороны Тифлиса.</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Тогда вышли все из покоя, горько плачущие. И уснула Тамар(а) сном праведных в месяце январе 18 числа, и погасло солнце Грузии, и могила ее для прославления своего сделала земную жизнь нужной для нас, всех христиан».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555748/tbilisi_the_metekhi_church_of_assumptio_1920.-hram-v-meheti-scaled_bjkb5a.jpg" alt="Тбилиси, храм в Метехи. Наше время">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555748/tbilisi_the_metekhi_church_of_assumptio_1920.-hram-v-meheti-scaled_bjkb5a.jpg" alt="Тбилиси, храм в Метехи. Наше время">
 <figcaption>Тбилиси, храм в Метехи, 1920 год.</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 Мне удалось встретиться и побеседовать с Джемалом Каралидзе — доктором исторических наук, профессором Батумского государственного университета имени Шота Руставели. Вот что он сказал по поводу того, почему до сих пор не известно, где похоронена Царица Тамара и могли ли ее перезахоронить в Палестине. Он не считает, что ее могли перезахоронить в Палестине.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555900/1151_z7bf9b.jpg" alt="Джемал Каралидзе за рабочим столом">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555900/1151_z7bf9b.jpg" alt="Джемал Каралидзе за рабочим столом">
 <figcaption>Джемал Каралидзе.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ excerpt: "Святая благоверная царица Тамара. Фре�
 В последних страницах романа «Тамара и Давид» представлена маленькая крупица огромной истории человечества. Она свидетельствует о том, что заканчивались одни войны и начинались другие. Поэтому сейчас трудно сказать, когда люди на этой планете жили спокойно. Из-за чего воевали? Из-за земель, из-за богаств, из-за религии. Похоже, не видно этому конца.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756555976/roman-aleksandry-voinovovj_askhhc.jpg" alt="обложка романа Тамара и Давид">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756555976/roman-aleksandry-voinovovj_askhhc.jpg" alt="обложка романа Тамара и Давид">
 <figcaption>Роман Александры Воиновой.</figcaption>
 </figure>
 

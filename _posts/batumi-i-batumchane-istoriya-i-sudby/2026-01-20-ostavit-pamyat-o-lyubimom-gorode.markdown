@@ -4,7 +4,7 @@ date:   2026-01-20 19:46:46 +0100
 categories: batumi-i-batumchane-istoriya-i-sudby
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/63bgxWA0XEeXxZvBlXRRd3?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1776355850/whatsapp-image-2026-01-20-at-13.38.29-3_nlncck.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776355850/whatsapp-image-2026-01-20-at-13.38.29-3_nlncck.jpg
 excerpt: "Это, наверное, самый масштабный проект, который будет очень важным в седьмом сезоне моих подкастов. Ему я отведу значительное место и время на моем сайте. Здесь будет цикл программ о прошлом и настоящем Батуми, а также о людях, которые когда-то жили и ныне живут в этом приморском городе. Я познакомлю с описаниями этих мест, которые оставили многие известные первопроходцы, путешественники, писатели и наши современники."
 ---
 
@@ -13,13 +13,13 @@ excerpt: "Это, наверное, самый масштабный проект
 Это, наверное, самый масштабный проект, который будет очень важным в седьмом сезоне моих подкастов. Ему я отведу значительное место и время на моем сайте. Здесь будет цикл программ о прошлом и настоящем Батуми, а также о людях, которые когда-то жили и ныне живут в этом приморском городе. Я познакомлю с описаниями этих мест, которые оставили многие известные первопроходцы, путешественники, писатели и наши современники.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776355374/more-i-gorod_xcsyof.jpg" alt="вид на Батуми сверху">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776355374/more-i-gorod_xcsyof.jpg" alt="вид на Батуми сверху">
 </figure>
 
 В 2025 году вышла в свет третья книга о Батуми и батумчанах на русском языке.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776355850/whatsapp-image-2026-01-20-at-13.38.29-3_nlncck.jpg" alt="книги о Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776355850/whatsapp-image-2026-01-20-at-13.38.29-3_nlncck.jpg" alt="книги о Батуми">
 </figure>
 
 Она, как и две предыдущие, появилась благодаря Баграту Тавберидзе. Баграт родился в Батуми и всю жизнь связан с этим городом. Он — истинный батумчанин, как говорит сам, безгранично любит свой город и знает о нем почти все.
@@ -29,7 +29,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Он закончил Институт кинематографии, потому, наверное, как истинный художник, воспринимает немного по-своему окружающий мир, по-особому относится к Батуми и потрясающе рассказывает о нем. На своих авторских экскурсиях по городу он нередко предлагает слушателям по дороге что-то потрогать, что-то понюхать, что-то погладить. И это особенно впечатляет, а главное, запоминается на всю жизнь. Он даже не задумывается о том, что его приемы общения с гостями города можно назвать совершенными для современного гида. Каждая его экскурсия продолжается несколько часов. И это никого не утомляет.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776356171/whatsapp-image-2025-12-18-at-15.23.04_dyl0vn.jpg" alt="Баграт Тавберидзе в Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776356171/whatsapp-image-2025-12-18-at-15.23.04_dyl0vn.jpg" alt="Баграт Тавберидзе в Батуми">
 <figcaption>Баграт Тавберидзе.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Жизнь многих из них, их судьбы, их воспоминания – это и есть история происходившего здесь на протяжении полутора веков. И в трех книгах, которые издал Баграт, многие батумчане делятся своими историями, рассказывают о близких и дорогих им людях, вспоминают о ярких и важных для них событиях, о любимых и родных местах в городе, с которым связали навсегда жизнь.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776356587/dramaticheskij-teatr_t051zg.jpg" alt="вид на драматический театр в Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776356587/dramaticheskij-teatr_t051zg.jpg" alt="вид на драматический театр в Батуми">
 <figcaption>Батумский драматический театр.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Важно отметить, что ни государственные структуры, ни издательства, ни представители профессионального сообщества писателей и журналистов напрямую не были участниками издания тех трех книг, о которых я рассказываю. Полностью всю работу от начала и до конца выполнила инициативная группа. Ее собрал Баграт Тавберидзе. Она сделала все бесплатно.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776356710/29-nojabrja-2026-goda.-tbilisi.-s-jelinoj-gurgenidze-na-prezentacii-knigi-batumi.-istorija-v-licah_wimtzp.png" alt="Баграт Тавберидзе и Элина Гургенидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776356710/29-nojabrja-2026-goda.-tbilisi.-s-jelinoj-gurgenidze-na-prezentacii-knigi-batumi.-istorija-v-licah_wimtzp.png" alt="Баграт Тавберидзе и Элина Гургенидзе">
 <figcaption>Баграт Тавберидзе и Элина Гургенидзе на презентации книги.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Позже, вспоминая об этом событии, Баграт Тавберидзе писал: «Я был поражен выступлением (представителя) Посольства Грузии в Ереване Нино Апциаури. За несколько дней (до этого) она успела тщательно ознакомиться с (нашей) книгой. И (отметив) многие главы, пользуясь деталями, цитатами из (них), подчеркнула высокую значимость и необходимость этого издания. Было отмечено, что в (этой) книге особенно чувствуется дух старого Батуми, где все национальности всегда жили рядом. Несмотря на то, что из 172 персоналий, всего 38 (статей) посвящены армянам, чувствуется их вклад в историю приморского города. Следует заметить, что выступление представительницы грузинского посольства прозвучало на чистейшем армянском языке.» — конец цитаты.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776356863/tehnicheskij-redaktor-ilja-culadze_kmgx7c.jpg" alt="Илья Цуладзе с книгой в руках">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776356863/tehnicheskij-redaktor-ilja-culadze_kmgx7c.jpg" alt="Илья Цуладзе с книгой в руках">
 <figcaption>Технический редактор Илья Цуладзе.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Но после выхода первой книги Баграт даже не планировал продолжать работу. Однако сама жизнь преподнесла неожиданный поворот, который определил и дальнейший ход событий. Может, потому вторая книга, изданная уже через несколько лет, заметно отличается от первой. Прежде всего тем, что в ней уже отражены не только истории судеб людей.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776356973/cerkov-svjatogo-nikolaja-scaled_eaf2rm.jpg" alt="Церковь Святого Николая в Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776356973/cerkov-svjatogo-nikolaja-scaled_eaf2rm.jpg" alt="Церковь Святого Николая в Батуми">
 <figcaption>Церковь Святого Николая.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Более 10 глав подготовила для второй книги журналист Элина Гургенидзе, авторами отдельных глав стали Виктория Красенбаум, Елизавета Кузьминская-Полихрониди, Виктория Диасамидзе, Аркадий Никогосян, Симон Гордезиани, Тамаз Джегнарадзе.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776357058/valerij-novarro_hibgqu.png" alt="Валерий Новарро">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776357058/valerij-novarro_hibgqu.png" alt="Валерий Новарро">
 <figcaption>Редактор последних двух книг Валерий Новарро.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ excerpt: "Это, наверное, самый масштабный проект
 Первое издание «Очерков» не было иллюстрированным, и я решил восполнить этот пробел. Два месяца ушло на поиск и обработку фотоматериала периода 1877-1878 годов. И в итоге «Очерки» с более, чем 100 фотографиями, обрели современный облик, стали визуально привлекательными и очень легко читаемыми. (Именно) тогда мы решили (издать) третью книгу, (назвав ее «Батуми. Следами истории» — конец цитаты.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776357327/naberezhnaja-rotated_dxvphj.jpg" alt="корабли у набережной Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776357327/naberezhnaja-rotated_dxvphj.jpg" alt="корабли у набережной Батуми">
 <figcaption>Набережная Батуми.</figcaption>
 </figure>
 
@@ -114,6 +114,6 @@ excerpt: "Это, наверное, самый масштабный проект
 Надо заметить, что во время работы над этими тремя книгами возникали весьма любопытные и, я бы сказал, загадочные моменты. О них мы тоже поговорили с Багратом Тавберидзе.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1776357486/simvol-goroda-batumi-rotated_v3zihc.jpg" alt="статуя дельфина">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1776357486/simvol-goroda-batumi-rotated_v3zihc.jpg" alt="статуя дельфина">
 <figcaption>Символ города Батуми.</figcaption>
 </figure>

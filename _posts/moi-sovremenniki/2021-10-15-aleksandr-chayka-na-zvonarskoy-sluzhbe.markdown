@@ -4,7 +4,7 @@ date:   2021-10-15 19:48:45 +0100
 categories: "moi-sovremenniki"
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/76NiQ8004d8H9pV960d6DL?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: "https://res.cloudinary.com/dqt3l509c/image/upload/v1760116695/zvony-scaled_sc5j3m.jpg"
+    teaser: "https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760116695/zvony-scaled_sc5j3m.jpg"
 excerpt: "Многим из нас не особо хочется проникать глубинность смыслов тех или иных явлений. Ну как-то нет особого желания грузиться всеми этими заморочками. Хотелось бы, чтобы все было попроще. Без всяких там наворотов. А лучше бы с попкорном и на диване. Пусть этим занимаются всякие там энтузиасты и первооткрыватели. Это их удел. Ну и главное, чтобы они своей суетой не мешали жить другим спокойно. Не нарушали уже сложившееся равновесие. Думаю, так думают, многие наши простые обыватели. Такова их жизненная философия."
 ---
 
@@ -17,14 +17,14 @@ excerpt: "Многим из нас не особо хочется проника
 А есть такие, которым все интересно. И они хотят попробовать многое за всю свою жизнь. К таким людям вполне можно отнести Александра Чайку.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1760116796/pered-soborom-scaled_doorjs.jpg" alt="Александр Чайка у храма">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760116796/pered-soborom-scaled_doorjs.jpg" alt="Александр Чайка у храма">
 <figcaption>Болховский звонарь Александр Чайка.</figcaption>
 </figure>
 
 Самым красивейшим в Болхове по праву считается Спасо-Преображенский собор. Действительно, его внешнему виду могли бы позавидовать многие древние города. Первое упоминание о нем можно найти в писцовых книгах 1625 года. Правда, рядом с ним находится еще более древняя святыня. Однако руки до нее у болховчан пока еще не дошли.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1760115669/sobor-scaled_l0p98l.jpg" alt="вид на Спасо-Преображенский собор">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760115669/sobor-scaled_l0p98l.jpg" alt="вид на Спасо-Преображенский собор">
 <figcaption>Спасо-Преображенский собор в Болхове.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ excerpt: "Многим из нас не особо хочется проника
 Со временем к собору пристроили четырехъярусную колокольню высотой в 40 метров. На металлических конструкциях ее шпиля сохранилась дата постройки: «сентября 24 дня 1833 года». Главный колокол на ней весил тогда более 700 пудов и был слышен в округе на расстоянии 20 километров.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1760118532/kolokolnja-sobora-scaled_wsgihe.jpg" alt="вид на Колокольня Спасо-Преображенского собора">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760118532/kolokolnja-sobora-scaled_wsgihe.jpg" alt="вид на Колокольня Спасо-Преображенского собора">
 <figcaption>Колокольня Спасо-Преображенского собора.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ excerpt: "Многим из нас не особо хочется проника
 Одной из его достопримечательностей стали старинные куранты, отбивающие время каждые полчаса. Правда, часы эти смотрят только на три стороны. Таков был изначальный замысел болховского уездного врача Петра Соломко, который подарил куранты городу в 1916 году. С тех пор их механизм заводят вручную каждую неделю.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1760118627/na-kolokolne-sobora-scaled_wtdn4r.jpg" alt="Александр Чайка на колокольне">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760118627/na-kolokolne-sobora-scaled_wtdn4r.jpg" alt="Александр Чайка на колокольне">
 <figcaption>Александр Чайка на колокольне Спасо-Преображенского собора.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ excerpt: "Многим из нас не особо хочется проника
 Мы поднимаемся на легендарную колокольню. Здесь Александр обустроил для себя удобное рабочее место. Звонит он сидя. При этом еще, как органист, он нажимает ногой на педали. Кроме колоколов, здесь установлены билы. Однако нет предела для совершенства, считает он. Есть еще куда двигаться, развиваться. И потому он уже думает, как можно усовершенствовать свою звонницу, что можно еще добавить в этот колокольный инструмент.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1760118742/na-rabochem-meste-scaled_ulti06.jpg" alt="Александр Чайка на рабочем месте">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760118742/na-rabochem-meste-scaled_ulti06.jpg" alt="Александр Чайка на рабочем месте">
 <figcaption>Рабочее место звонаря.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ excerpt: "Многим из нас не особо хочется проника
 Мне удалось пообщаться с настоятелем Спасо-Преображенского собора, протоиереем Александром (Кузнецовым). Это, на мой взгляд, весьма необычный и яркий священник. Думаю, Болхову с ним очень повезло. А сам отец Александр с великим удовольствием несет службу в этом древнем болховском храме.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1760118868/otec-aleksandr-scaled_zuswj4.jpg" alt="отец Александр Кузнецов в храме">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1760118868/otec-aleksandr-scaled_zuswj4.jpg" alt="отец Александр Кузнецов в храме">
 <figcaption>Настоятель Спасо-Преображенского собора отец Александр (Кузнецов).</figcaption>
 </figure>
 
