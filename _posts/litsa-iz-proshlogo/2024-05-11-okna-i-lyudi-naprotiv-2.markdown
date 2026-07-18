@@ -4,7 +4,7 @@ date:   2024-05-11 19:47:46 +0100
 categories: litsa-iz-proshlogo
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/49vpYAh5RHXnSATPUnh6cz?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1757531331/georges_simenon_1965_f5xh7a.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757531331/georges_simenon_1965_f5xh7a.jpg
 excerpt: "Известный писатель Жорж Сименон трижды за свою жизнь побывал в Батуми. Приезжал сюда и в 30-е годы прошлого столетия. После этого он написал роман «Люди напротив», события в котором, по замыслу автора, происходят как раз в этом причерноморском городе. Позже, уже в 80-е годы, в одном из интервью, вспоминая о той поездке, писатель сказал: «…Я влюбился в этот край. Вот тогда я открыл для себя Батуми, всю красоту Кавказа. Разве можно забыть его набережную, порт, южное буйство красок, ласковый прибой. Но главное — это люди. Именно в Батуми я стал задумываться о психологии горцев, их таланте и самобытности»."
 ---
 
@@ -15,7 +15,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Позже, уже в 80-е годы, в одном из интервью, вспоминая о той поездке, писатель сказал: «…Я влюбился в этот край. Вот тогда я открыл для себя Батуми, всю красоту Кавказа. Разве можно забыть его набережную, порт, южное буйство красок, ласковый прибой. Но главное — это люди. Именно в Батуми я стал задумываться о психологии горцев, их таланте и самобытности».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757531331/georges_simenon_1965_f5xh7a.jpg" alt="Жорж Сименон с трубкой">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757531331/georges_simenon_1965_f5xh7a.jpg" alt="Жорж Сименон с трубкой">
 <figcaption>Бельгийский писатель Жорж Сименон.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Своими главными произведениями писатель считал «психологические», или, как он их называл, «трудные» романы». В них с особой силой проявлялась сложность мира, человеческих взаимоотношений, психологизм жизни. В конце 1972 года, накануне 70-летия Сименон принял решение не писать больше романов, оставив недописанным последний свой роман «Оскар».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757531441/oblozhka-knigi-ljudi-naprotiv-_mnpewv.jpg" alt="обложка романа «Люди напротив»">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757531441/oblozhka-knigi-ljudi-naprotiv-_mnpewv.jpg" alt="обложка романа «Люди напротив»">
 <figcaption>Роман Жоржа Сименона «Люди напротив».</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Таким образом, роман «Люди напротив» можно было бы не без основания назвать «Окна напротив», ибо почти в ежестраничном упоминании окон жилых домов, контор, кооперативов, домов профсоюзов, как в зеркале души общества, прочитываются его недуги и страдания, физический голод и духовная нищета, атмосфера тоталитарного надзора и взаимного недоверия».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757531574/batumi-30-h-godov_w1ftrm.jpg" alt="Батуми 30-х">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757531574/batumi-30-h-godov_w1ftrm.jpg" alt="Батуми 30-х">
 <figcaption>Батуми 1930-х годов.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Батум теперь был всего-навсего портом с несколькими ино­странными судами, расположившимися вокруг нефтепровода, который где-то там, у горы, подавал нефть из Баку через Кавказ. А также статуей Ленина, которая, хотя и была выполнена в натуральную величину, представляла его совсем небольшим человечком. Батум — это был еще и большой Клуб профсоюзов.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757531755/zdanie-byvshej-portovoj-gostinicy-u-morskogo-gpu-gde-zhil-simenon-1_l5xgzm.jpg" alt="здание бывшей портовой гостиницы в Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757531755/zdanie-byvshej-portovoj-gostinicy-u-morskogo-gpu-gde-zhil-simenon-1_l5xgzm.jpg" alt="здание бывшей портовой гостиницы в Батуми">
 <figcaption>Здание бывшей портовой гостиницы у морского ГПУ, где жил Сименон.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Она говорила заученные фразы спокойным тоном. И так было всегда. Стоило Адил-бею задать вопрос, как на него уже был готов ответ, но эти ответы были столь пусты и бессодержательны, что у него складывалось странное впечатление беспредметной нереальности».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757531912/v-batumi-30-h-godov_avdm7d.jpg" alt="улицы Батуми 30-х годов">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757531912/v-batumi-30-h-godov_avdm7d.jpg" alt="улицы Батуми 30-х годов">
 <figcaption>Батуми 30-х годов прошлого столетия.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 «Постановления Политбюро ЦК ВКП (б) и приказы НКВД в 1937-1938 годах, породили в обществе атмосферу страха, безысходности, двойной морали, доносительства, шпиономании. Всюду шел поиск «врагов народа», «шпионов». «Плановые задания», цифры на арест «изменников родины», утверждавшиеся в центре, служили для местных органов НКВД руководством к действию. В органах НКВД шло своеобразное «соцсоревнование» за наибольшее разоблачение «врагов народа». «Контрольные» цифры на аресты были перевыполнены многократно» — пишет в своей статье грузинский историк Отар Гоголишвили.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757532063/zdanie-byvshego-doma-agitacii-i-propagandy_jjbae4.jpg" alt="здание бывшего Дома агитации. Нынешний банк TBC">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757532063/zdanie-byvshego-doma-agitacii-i-propagandy_jjbae4.jpg" alt="здание бывшего Дома агитации. Нынешний банк TBC">
 <figcaption>Здание бывшего Дома агитации и пропаганды.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 А что, если Джону? Американец выслушает его, глядя своими мутными глазами, потягивая виски. Почему же, по словам сеньоры Панделли, за все четыре года его жизни в Батуме он ни разу не был в отпуске, не говоря уже о побывке домой? Отчего Советы не трогают его, в то время как за всеми иностранцами велось поминутное наблюдение?
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757532157/mesto-raspolozhenija-doma-standartov-za-posjolkom-bnz_rfjq0u.jpg" alt="вид на место расположения Дома Стандартов">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757532157/mesto-raspolozhenija-doma-standartov-za-posjolkom-bnz_rfjq0u.jpg" alt="вид на место расположения Дома Стандартов">
 <figcaption>Место расположения Дома Стандартов за посёлком БНЗ.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Виктория Диасамидзе – профессор Батумского государственного университета, которая перевела роман Жоржа Сименона «Люди напротив», рассказала мне о своей встрече с сыном Жоржа Синона. Он приезжал в Батуми и прогулялся по тем местам, что описаны в романе. Она также поделилась своими впечатлениями о поездках во Францию и тех местах, где жил бельгийский писатель. Ее рассказ можно послушать в конце этой страницы.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757532321/dzhon-simenon-i-viktorija-diasamidze-scaled_lgahvc.jpg" alt="Джон Сименон и Виктория Диасамидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757532321/dzhon-simenon-i-viktorija-diasamidze-scaled_lgahvc.jpg" alt="Джон Сименон и Виктория Диасамидзе">
 <figcaption>Джон Сименон и Виктория Диасамидзе в Батуми.</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Следует лишь заметить, что они не совсем такие, как в моих историях, живут не в тех местах, куда я их помещаю, имеют не ту профессию, не ту национальность и даже не те нос или шляпу.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757532415/simenon_clf8gw.png" alt="Жорж Сименон разговаривает по телефону">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757532415/simenon_clf8gw.png" alt="Жорж Сименон разговаривает по телефону">
 </figure>
 
 В моем романе Адил-бей — турок, Амар — перс, Пенделли — итальянец. Я обожаю турок, у которых не так давно прожил несколько недель, я не имею ничего против персов, а мои лучшие друзья обитают в Италии.
@@ -205,6 +205,6 @@ excerpt: "Известный писатель Жорж Сименон трижд
 Жорж Сименон»
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757532558/diasamidze-i-simenon-scaled_gqzkzs.jpg" alt="Джон Сименон и Виктория Диасамидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757532558/diasamidze-i-simenon-scaled_gqzkzs.jpg" alt="Джон Сименон и Виктория Диасамидзе">
 <figcaption>Джон Сименон и Виктория Диасамидзе.</figcaption>
 </figure>

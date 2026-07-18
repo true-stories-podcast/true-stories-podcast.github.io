@@ -4,7 +4,7 @@ date:   2021-10-17 19:44:45 +0100
 categories: mir-vokrug-nas
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/4BgNwOpKBBXe2xWDPtwanQ?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: "https://res.cloudinary.com/dqt3l509c/image/upload/v1748897507/vokzal_y8rly3.jpg"
+    teaser: "https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748897507/vokzal_y8rly3.jpg"
 excerpt: "Поводом для этой программы послужила неожиданно банальная ситуация. Летом я спешил на электричку, отправляясь на встречу к одному из своих героев. И вдруг услышал бой часов, которые установлены у входа на орловский вокзал. Я не поверил своим ушам. Невольно остановился. Этот знакомый бой часов невольно заставил меня кое о чем призадуматься."
 ---
 
@@ -19,7 +19,7 @@ excerpt: "Поводом для этой программы послужила �
 А часы у входа в здание вокзала были установлены в память о русском композиторе Василии Калинникове, который родился на нашей земле. Учился в Москве. Стал известным музыкантом. В молодости заболел туберкулезом и умер в Ялте. Не успев осуществить свои многочисленные творческие замыслы.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748875972/chasy-scaled_pibp2o.jpg" alt="здание железнодорожного вокзала с часами в Орле">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748875972/chasy-scaled_pibp2o.jpg" alt="здание железнодорожного вокзала с часами в Орле">
 <figcaption>Часы на здании орловского железнодорожного вокзала.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ excerpt: "Поводом для этой программы послужила �
 Замечу, что новое поколение орловчан даже не знает, что эти часы когда-то не только показывали время, но еще и звучали. Как сказано на памятной доске, которая висит у входа в здание орловского вокзала.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748876103/chasy-na-vokzale_oqlxg2.jpg" alt="памятная доска посвящённая часам вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748876103/chasy-na-vokzale_oqlxg2.jpg" alt="памятная доска посвящённая часам вокзала">
 <figcaption>Памятная доска на здании вокзала.</figcaption>
 </figure>
 
@@ -42,26 +42,26 @@ excerpt: "Поводом для этой программы послужила �
 Начну опять же с Василия Калинникова. Он родился недалеко от города Мценска, в селе Первый Воин, на территории усадьбы Новосильцевых, где проживала в то время семья будущего композитора. В разные годы в это поместье приезжали многие знаменитости того времени. Гостили здесь Николай Карамзин, Иван Тургенев, Афанасий Фет, Лев Толстой.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748876365/selo-pervyj-voin-2_ibicyn.jpg" alt="знак у въезда в село Первый Воин">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748876365/selo-pervyj-voin-2_ibicyn.jpg" alt="знак у въезда в село Первый Воин">
 <figcaption>Село Первый воин.</figcaption>
 </figure>
 
 В советское время здесь был открыт противотуберкулезный санаторий. В 2009 году, после печально известной оптимизации здравоохранения, его закрыли. А здесь находилась одна из немногих, почти полностью сохранившихся на территории Орловской области, помещичья усадьба. Совсем еще недавно на стене бывшего господского дома висела памятная доска, которая свидетельствовала о том, что этот объект является памятником садово-паркового искусства и с 1977 года был принят под охрану областными органами власти.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748876593/usadba-novosilcevyh_df9p3j.jpg" alt="усадьба Новосильцевых требующее реконструкции">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748876593/usadba-novosilcevyh_df9p3j.jpg" alt="усадьба Новосильцевых требующее реконструкции">
 <figcaption>Усадьба Новосильцевых.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748876653/pamjatnik-kultury-scaled_rd8ldk.jpg" alt="памятная доска на здании">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748876653/pamjatnik-kultury-scaled_rd8ldk.jpg" alt="памятная доска на здании">
 <figcaption>Памятник истории.</figcaption>
 </figure>
 
 По сути, это крупнейший рукотворный парк на территории нашего региона площадью более 100 гектаров. А знаменитые липовые аллеи здесь просто уникальны. Деревья были посажены более двух веков тому назад. Совсем еще недавно орловчане называли это место одним из семи чудес света. А в 2015 году французское посольство в России даже предлагало содействие в восстановлении этого уникального старинного парка. Но вся эта история так ничем не закончилась. По-прежнему, уникальное природное и культурное наследие продолжает разрушаться и превращаться в руины.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748876928/lipovye-allei-scaled_tmfpjq.jpg" alt="аллея среди лип">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748876928/lipovye-allei-scaled_tmfpjq.jpg" alt="аллея среди лип">
 <figcaption>Липовые аллеи.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ excerpt: "Поводом для этой программы послужила �
 Еще новость. Недавно я случайно узнал, что в нескольких местах, наконец-то, немного подлатали дорогу от Болховского шоссе в сторону поселка Злынь. В нем расположен знаменитый Злынский конезавод. Он был основан в 1870-м году Василием Телегиным.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748877084/v-muzee-scaled_ch34yq.jpg" alt="старинные весы в помещение музея">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748877084/v-muzee-scaled_ch34yq.jpg" alt="старинные весы в помещение музея">
 <figcaption>В музее Злынского конезавода.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ excerpt: "Поводом для этой программы послужила �
 А недавно пришло печальное известие: сильный ураганный ветер повалил знаменитый Тургеневский дуб. «Дуб, посаженный Иваном Сергеевичем Тургеневым, был не просто главной природной достопримечательностью усадьбы, это был живой символ любви к родине. Постоять под его кроной и поклониться ему – по завету Тургенева — люди приезжали из самых дальних уголков России и мира», — прокомментировал эту ситуацию директор орловского музея-заповедника «Спасское Лутовиново» Сергей Ступин. Планировалось, что Тургеневский дуб станет в 2022 году участником международного конкурса «Европейское дерево года».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748877226/upavshij-turgenevskij-dub_modo7j.jpg" alt="упавший старый дуб">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748877226/upavshij-turgenevskij-dub_modo7j.jpg" alt="упавший старый дуб">
 <figcaption>Упавший после урагана Тургеневский дуб в Спасском-Лутовиново.</figcaption>
 </figure>
 
@@ -114,61 +114,61 @@ excerpt: "Поводом для этой программы послужила �
 Вернемся на орловский железнодорожный вокзал. Я уже сказал, что здесь опять зазвучали часы, установленные у входа в здание. Они отбивают мелодию из первой симфонии орловского композитора Василия Калинникова. Часы эти появились здесь еще в 1968 году, к столетию орловского вокзала.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748877393/orlovskij-vokzal-scaled_nxfjaw.jpg" alt="вид на парковку и здание Орловского железнодорожного вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748877393/orlovskij-vokzal-scaled_nxfjaw.jpg" alt="вид на парковку и здание Орловского железнодорожного вокзала">
 <figcaption>Орловский железнодорожный вокзал.</figcaption>
 </figure>
 
 А недавно здесь получили новую жизнь и другие арт-объекты. В 2016 году на привокзальной площади установили памятник орлу, созданный уже не из экологических природных материалов, а из бронзы.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748877783/skulptura-orla-scaled_hm0ucw.jpg" alt="памятник Орлу в виде орла с расправленными крыльями">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748877783/skulptura-orla-scaled_hm0ucw.jpg" alt="памятник Орлу в виде орла с расправленными крыльями">
 <figcaption>Памятник орлу.</figcaption>
 </figure>
 
 На площадке рядом со зданием бывшего Дворца культуры железнодорожников расположилась целая экспозиция старой железнодорожной техники и небольшой мемориал в память о железнодорожниках, погибших в годы войны.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748877904/voennaja-tehnika-scaled_fbhpqb.jpg" alt="старый паровоз с техникой">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748877904/voennaja-tehnika-scaled_fbhpqb.jpg" alt="старый паровоз с техникой">
 <figcaption>Старая железнодорожная техника.</figcaption>
 </figure>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878014/memorial-pamjati-zheleznodorozhnikov-scaled_dz4zcy.jpg" alt="мемориальная стена и памятник в честь железнодорожникам">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878014/memorial-pamjati-zheleznodorozhnikov-scaled_dz4zcy.jpg" alt="мемориальная стена и памятник в честь железнодорожникам">
 <figcaption>Мемориал в память о погибших железнодорожниках.</figcaption>
 </figure>
 
 Первое здание вокзала в Орле, которое построили в 1868 году, было почти полностью разрушено в годы Великой отечественной войны. А нынешнее здание было построено уже в послевоенное время по проекту армянского архитектора Степана Мхитаряна.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878160/zh-d-vokzal-scaled_fyltyn.jpg" alt="вид на здание вокзала со стороны путей">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878160/zh-d-vokzal-scaled_fyltyn.jpg" alt="вид на здание вокзала со стороны путей">
 <figcaption>Здание орловского железнодорожного вокзала.</figcaption>
 </figure>
 
 Этот талантливый архитектор вместе с привокзальной площадью создал здесь целый архитектурный ансамбль. Говорят, что с высоты птичьего полета весь комплекс зданий вместе с вокзалом похож на птицу с раскрытыми крыльями.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878275/maket-privokzalnoj-ploshhadi_teyf7r.jpg" alt="фото макета привокзальной площади, 46-47 год">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878275/maket-privokzalnoj-ploshhadi_teyf7r.jpg" alt="фото макета привокзальной площади, 46-47 год">
 <figcaption>Привокзальная площадь.</figcaption>
 </figure>
 
 В зале ожидания вокзала, построенного к 1950-му году, теперь появились оригинальные витражи, на которых запечатлены образы наших выдающихся земляков: Ивана Тургенева, Ивана Бунина, Афанасия Фета, Леонида Андреева, Михаила Пришвина и Василия Калинникова.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878418/vitrazhi_es2r93.jpg" alt="вид на витражи из зала ожидания вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878418/vitrazhi_es2r93.jpg" alt="вид на витражи из зала ожидания вокзала">
 <figcaption>Витражи в зале ожидания вокзала.</figcaption>
 </figure>
 
 Теперь на орловском вокзале нет большого скопления пассажиров, как прежде. Поэтому появилось много свободного пространства. И оно не отдано под торговые ларьки и павильоны, как в других местах. На вокзале освободившееся пространство начинает заполняться различными арт-объектами, которые предлагают нам новую информацию и позволяют скоротать время с пользой для себя. Об этом рассказал мне начальник орловского железнодорожного вокзала Сергей Логвинов.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878592/logvinov_ae0sst.jpg" alt="Сергей Логвинов в железнодорожный форме у кафедры">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878592/logvinov_ae0sst.jpg" alt="Сергей Логвинов в железнодорожный форме у кафедры">
 <figcaption>Начальник орловского железнодорожного вокзала Сергей Логвинов.</figcaption>
 </figure>
 
 В зале ожидания теперь стоит расписанный художниками музыкальный инструмент. На нем каждый пассажир может помузицировать и скоротать время в ожидании своего поезда. Инструмент даже получил свое название «С дыханием города в унисон!».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878755/muzykalnyj-art-obekt-scaled_hexmav.jpg" alt="разрисованное пианино в зале ожидания вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878755/muzykalnyj-art-obekt-scaled_hexmav.jpg" alt="разрисованное пианино в зале ожидания вокзала">
 <figcaption>Музыкальный арт-объект в зале ожидания вокзала.</figcaption>
 </figure>
 
@@ -181,14 +181,14 @@ excerpt: "Поводом для этой программы послужила �
 На орловском вокзале можно познакомиться с коллекцией эксклюзивных монет, представленных Российским банком.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748878889/vystavka-redkih-monet-scaled_zi6pbt.jpg" alt="стенды с печатями монет">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748878889/vystavka-redkih-monet-scaled_zi6pbt.jpg" alt="стенды с печатями монет">
 <figcaption>Выставка редких монет.</figcaption>
 </figure>
 
 А рядом с музыкальным инструментом установлено современное мультимедийное информационное устройство в виде саквояжа с ручкой под названием «Исторический багаж». С его помощью можно познакомиться с историей Орла и достопримечательностями нашего города.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748879025/medijnaja-sistema-scaled_rgigwk.jpg" alt="освещённые стенды в здание вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748879025/medijnaja-sistema-scaled_rgigwk.jpg" alt="освещённые стенды в здание вокзала">
 <figcaption>Мультимедийное информационное устройство.</figcaption>
 </figure>
 
@@ -197,7 +197,7 @@ excerpt: "Поводом для этой программы послужила �
 А на стене здания вокзала теперь появилась памятная доска, которая свидетельствует о том, что на орловском вокзале не раз бывали российские царствующие особы.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748879168/pamjatnaja-doska_mug3bx.jpg" alt="памятная доска на кирпичной стене вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748879168/pamjatnaja-doska_mug3bx.jpg" alt="памятная доска на кирпичной стене вокзала">
 <figcaption>Памятная доска на здании вокзала.</figcaption>
 </figure>
 
@@ -212,7 +212,7 @@ excerpt: "Поводом для этой программы послужила �
 В советское время орловский железнодорожный вокзал считался одним из самых красивых в стране. И вот теперь время вносит здесь свои перемены. Неизменным остается только одно: вокзал во все времена был местом встреч и расставаний. Так, вероятно, будет всегда.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1748879270/vokzal_vrjql0.jpg" alt="зал ожидания с арками и люстрами Орловского вокзала">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1748879270/vokzal_vrjql0.jpg" alt="зал ожидания с арками и люстрами Орловского вокзала">
 <figcaption>Зал ожидания орловского вокзала.</figcaption>
 </figure>
 

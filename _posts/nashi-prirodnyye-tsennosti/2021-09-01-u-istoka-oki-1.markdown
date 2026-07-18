@@ -4,35 +4,35 @@ date:   2021-01-09 19:46:46 +0100
 categories: nashi-prirodnyye-tsennosti
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/43hzMO4A44UR1idg0hNyoz?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1767980502/img_20200807_110647-scaled.jpg_qv4gsn.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767980502/img_20200807_110647-scaled.jpg_qv4gsn.jpg
 excerpt: "Здесь, на Орловщине, в Глазуновском районе, у деревни Александровка начинает свой путь река Ока. Оку не называют великой русской рекой. Хотя она вполне подходит для этого определения. Если сравнивать по протяженности Волгу и Оку до их слияния, то Ока окажется на 185 километров длиннее. Таким образом, получается, что именно она продолжает свой путь к Каспийскому морю. И это еще вопрос, какая из этих двух рек является притоком. До слияния с Волгой воды Оки неторопливо текут по территории шести российских регионов, преодолевая путь почти в полторы тысячи километров. Площадь бассейна Оки насчитывает почти четверть миллиона квадратных километров, что примерно равно площади такой страны, как Великобритания."
 ---
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/43hzMO4A44UR1idg0hNyoz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1767980058/img_20200807_105602-1-scaled.jpg_m6y3x3.jpg" alt="вход к истоку реки Оки">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767980058/img_20200807_105602-1-scaled.jpg_m6y3x3.jpg" alt="вход к истоку реки Оки">
 </figure>
 
 Здесь, на Орловщине, в Глазуновском районе, у деревни Александровка начинает свой путь река Ока.
 Оку не называют великой русской рекой. Хотя она вполне подходит для этого определения. Если сравнивать по протяженности Волгу и Оку до их слияния, то Ока окажется на 185 километров длиннее. Таким образом, получается, что именно она продолжает свой путь к Каспийскому морю. И это еще вопрос, какая из этих двух рек является притоком. До слияния с Волгой воды Оки неторопливо текут по территории шести российских регионов, преодолевая путь почти в полторы тысячи километров. Площадь бассейна Оки насчитывает почти четверть миллиона квадратных километров, что примерно равно площади такой страны, как Великобритания.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1767980502/img_20200807_110647-scaled.jpg_qv4gsn.jpg" alt="ручей образующий реку Оку">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767980502/img_20200807_110647-scaled.jpg_qv4gsn.jpg" alt="ручей образующий реку Оку">
 <figcaption>Исток Оки.</figcaption>
 </figure>
 
 Согласно недавнему постановлению орловского областного правительства, теперь вот это место —  Исток Оки – получил статус памятника природы регионального значения и находятся под охраной государства.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1767980665/img_20200807_112314-scaled.jpg_jw28yr.jpg" alt="изба на курьих ножках и идолы">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767980665/img_20200807_112314-scaled.jpg_jw28yr.jpg" alt="изба на курьих ножках и идолы">
 <figcaption>Эти деревянные идолы охраняют подступы к истоку Оки.</figcaption>
 </figure>
 
 Здесь ощущается какой-то особый дух, создана особая атмосфера. По преданию предков и местных жителей, вода истока Оки обладает целительными свойствами. Хотя, кто это проверял. Однако место это освящено теперь православной церковью.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1767980813/img_20200807_110452-scaled.jpg_hhqz1k.jpg" alt="красная деревянная часовенка">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767980813/img_20200807_110452-scaled.jpg_hhqz1k.jpg" alt="красная деревянная часовенка">
 <figcaption>Деревянная часовенка у истока Оки.</figcaption>
 </figure>
 
@@ -43,6 +43,6 @@ excerpt: "Здесь, на Орловщине, в Глазуновском ра�
 Исток Оки оформлен в очень выразительном и ярком стиле. Благодаря которому, посетители ненадолго погружаются в мир прошлого, отраженный в былинах и сказаниях наших предков.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1767980986/img_20200807_112445-scaled.jpg_xpr8cf.jpg" alt="деревянные персонажи старинных сказаний и легенд.">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1767980986/img_20200807_112445-scaled.jpg_xpr8cf.jpg" alt="деревянные персонажи старинных сказаний и легенд.">
 <figcaption>Персонажи старинных сказаний и легенд.</figcaption>
 </figure>

@@ -4,7 +4,7 @@ date:   2023-03-12 19:46:46 +0100
 categories: izgnanniki
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/4LNMz6rJNuFKmPsxwlAwdE?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1757445329/kallinikov-2_bcf0x4.png
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757445329/kallinikov-2_bcf0x4.png
 excerpt: "Почти каждый талантливый русский литератор в прошлом был нелюбим российскими властями. И многие из них, опасаясь преследования, уезжали за границу. После того, как менялась власть, некоторые мечтали вернуться на родину. Кое-кому это удавалось сделать. Однако нельзя сказать однозначно, что судьба их сложилась благополучно. В советской России тоже не все писатели и поэты находили общий язык с новым режимом."
 ---
 
@@ -13,7 +13,7 @@ excerpt: "Почти каждый талантливый русский лите
 Кое-кому это удавалось сделать. Однако нельзя сказать однозначно, что судьба их сложилась благополучно. В советской России тоже не все писатели и поэты находили общий язык с новым режимом.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757444967/izgnanniki-2_t9t4v5.jpg" alt="изгнанники">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757444967/izgnanniki-2_t9t4v5.jpg" alt="изгнанники">
 </figure>
 
 # Забытое имя Иосиф Каллиников
@@ -29,7 +29,7 @@ excerpt: "Почти каждый талантливый русский лите
 Сообщая о своем прошлом, Иосиф Каллиников писал так: «Родился я на Новый год 1890-го в губернском городе Орле. Мои воспоминания с ранних лет: старая отцовская блуза почтового чиновника, пахнущая сургучом почтовых посылок. Всегда утомленное, нервное лицо отца, бессильное перед жизненной нищетой. Вечерами сказки бабушки. Мать, которая 11 лет лежала больная, стонала в постели».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757445408/kallinikov-s-materju-scaled-1_py2njn.jpg" alt="чёрно белое фото Иосифа Каллиникова с матерью">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757445408/kallinikov-s-materju-scaled-1_py2njn.jpg" alt="чёрно белое фото Иосифа Каллиникова с матерью">
 <figcaption>Иосиф Каллиников с матерью.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ excerpt: "Почти каждый талантливый русский лите
 С этим Троицким храмом и кладбищем связано детство Иосифа Каллиникова. «Кладбище было местом моих детских игр и моего детства, -писал он позже. — С детства я пел по утрам в церковном хоре.  На могилах пел с дедом псалмы. После обеда подметал дорожки и ухаживал за деревьями и цветами. Каждая дорожка, каждая могила, куст сирени, черемухи – все было мне мило и знакомо. А кроме того вечное чувство смерти, погребальные напевы, плачь, сумасшедшая бабушка, больная мать – это была моя жизнь до студенческих лет».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757445554/troickij-hram_mytjtm.jpg" alt="вид на Свято-Троицкий храм">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757445554/troickij-hram_mytjtm.jpg" alt="вид на Свято-Троицкий храм">
 <figcaption>Свято-Троицкий храм в Орле.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ excerpt: "Почти каждый талантливый русский лите
 А вслед за этим, у него появляется существенная поддержка уже со стороны отделения русского языка и словесности Географического общества Российской Академии наук. Там ему выдают фонограф и денежное пособие. И он во время летних каникул отправляется в Дмитровский, Болховский, Мценский, Севский, Трубчевский, Карачевский, Брянский уезды Орловской губернии. В отдаленных селах этих уездов он записывает народные сказки, различные приметы, обрядовые песни местных крестьян. Причем, сказки и другие материалы Каллиников записывает дословно, с сохранением диалектных особенностей местного говора. Подробно описывает детали крестьянского быта того времени.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757445902/kniga1_zluxco.jpg" alt="обложка книги сказки орловской губернии">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757445902/kniga1_zluxco.jpg" alt="обложка книги сказки орловской губернии">
 <figcaption>Сказки, записанные Иосифом Каллиниковым в Орловской губернии в 1914 году.</figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ excerpt: "Почти каждый талантливый русский лите
 Достал он из кармана еще два червонца и поджидает разбойников. А у разбойников бой не шуточный. Напали они на сильный корабль. Стражники порубили немало разбойников, и сам атаман погиб. Возвращаются оставшиеся ни с чем. А Иван Васильевич снова им два червонца протягивает.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757446391/razbojniki_jkhp0z.jpg" alt="иллюстрация разбойников">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757446391/razbojniki_jkhp0z.jpg" alt="иллюстрация разбойников">
 <figcaption>Иллюстрация к сказке.</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@ excerpt: "Почти каждый талантливый русский лите
 — Иван Васильевич, а Иван Васильевич, подожди! Плохо ли было у нас, зачем же уплываешь? Догоним — убьём! — кричат разбойники.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757446563/kupec_wbhwqk.jpg" alt="иллюстрация Ивана Васильевича и Елены Королевны">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757446563/kupec_wbhwqk.jpg" alt="иллюстрация Ивана Васильевича и Елены Королевны">
 <figcaption>Иван Васильевич и Елена Королевна.</figcaption>
 </figure>
 
@@ -265,7 +265,7 @@ excerpt: "Почти каждый талантливый русский лите
 Морозов отошел от политики и посвятил себя разносторонней научной деятельности. Он познакомил Иосифа Каллиникова с писателем Максимом Горьким. Эта встреча состоялась в 1916 году на квартире писателя в Петрограде.  Горький поддержал идею издания собранных Каллиниковым народных песен и сказок. Разрешил молодому литератору пользоваться своей «сказочной» библиотекой. И в знак расположения подарил молодому писателю свои книжки.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757446655/maksim-gorkij_sh0mtm.jpg" alt="молодой Максим Горький">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757446655/maksim-gorkij_sh0mtm.jpg" alt="молодой Максим Горький">
 <figcaption>Максим Горький</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ excerpt: "Почти каждый талантливый русский лите
 Следует заметить, что Иосиф Каллиников вышел из разночинной, народной среды. Потому он живо интересовался доходящими до него сведениями о происходящих в России социальных преобразованиях. Его радуют реформы в области народного просвещения, распространения и доступности культуры, заметная тяга простых людей к знаниям. Он интересуется творчеством советских писателей, режиссеров, просматривает доходящие до Чехословакии советские периодические издания.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757445329/kallinikov-2_bcf0x4.png" alt="чёрно белый снимок Иосифа Каллиникова">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757445329/kallinikov-2_bcf0x4.png" alt="чёрно белый снимок Иосифа Каллиникова">
 <figcaption>Иосиф Каллиников</figcaption>
 </figure>
 
@@ -313,7 +313,7 @@ excerpt: "Почти каждый талантливый русский лите
 Одни критики ругали этот роман за его необычный язык, другие считали, что в нем много натурализма. При всем этом, только Максим Горький, помнивший о своей встрече с Иосифом Каллиниковым,  поддерживал его стремление вернуться на родину: «В эмиграции Вам делать нечего», — говорил он. И даже начал ходатайствовать об издании  романа «Мощи» в СССР.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757446838/iosif-kallinikov-mochi_lflosg.jpg" alt="Роман Мощи">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757446838/iosif-kallinikov-mochi_lflosg.jpg" alt="Роман Мощи">
 <figcaption>Роман «Мощи» Иосифа Каллиникова.</figcaption>
 </figure>
 
@@ -361,7 +361,7 @@ excerpt: "Почти каждый талантливый русский лите
 Поэтому у дочери писателя есть даже справка, выданная 11 сентября 1986 года Государственным музеем Ивана Сергеевича Тургенева в Орле о том, что «архивные материалы писателя-орловца Каллиникова Иосифа Федоровича (704 еденицы) находятся на постоянном хранении в фондах Гослитмузея Тургенева».
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757447128/litmuzej-turgeneva_wdbl5k.jpg" alt="вид литературный музей Тургенева">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757447128/litmuzej-turgeneva_wdbl5k.jpg" alt="вид литературный музей Тургенева">
 <figcaption>Литературный музей Тургенева в Орле.</figcaption>
 </figure>
 
@@ -398,7 +398,7 @@ excerpt: "Почти каждый талантливый русский лите
 — Так на нём черти воду таскают, огурцы поливать… Вижу, измучился барин ваш, сжалился я над ним… И барин-то меня опознал: «Ты, что ли, Кондрат?»
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757447267/pro-chertej_d8xtw2.jpg" alt="иллюстрация про чертей">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757447267/pro-chertej_d8xtw2.jpg" alt="иллюстрация про чертей">
 </figure>
 
 — «Да, мы, барин».
@@ -460,7 +460,7 @@ excerpt: "Почти каждый талантливый русский лите
 А мужик шёл-шёл, видит, барин его нагоняет. «Ну, — думает, — я и тебя, барин, проведу». Взял, наклал грязи кучу и прикрыл её шапкою. И сам грязью вымазался. Сидит, шапку одной рукою держит, в другой хлеба ломоть — сидит пожёвывает.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757447378/pod-shapkoj-grjaz_bz9guk.jpg" alt="иллюстрация под шапкой">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757447378/pod-shapkoj-grjaz_bz9guk.jpg" alt="иллюстрация под шапкой">
 </figure>
 
 Подъезжает барин к нему:
@@ -508,7 +508,7 @@ excerpt: "Почти каждый талантливый русский лите
 Об этом я уже узнал у генерального директора этого издательского дома Александра Воробьева. Он сам, кстати, делал литературную обработку этих сказок. Обо всем об этом он рассказал мне по телефону.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757447569/pisteli-aleksandr-vorobev-i-leonid-lejzerov_mgg7cc.jpg" alt="Леонид Лейферов и Александр Воробьев держут книги">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757447569/pisteli-aleksandr-vorobev-i-leonid-lejzerov_mgg7cc.jpg" alt="Леонид Лейферов и Александр Воробьев держут книги">
 <figcaption>Писатели Леонид Лейферов и Александр Воробьев.</figcaption>
 </figure>
 
@@ -527,7 +527,7 @@ excerpt: "Почти каждый талантливый русский лите
 И вот как-то в праздник решил Мирон Мироныч брата навестить. Взяли они с Марьяной кувшин, набрали в него ягод и пошли к Макару Миронычу.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757447682/lukoshko_njtpuz.jpg" alt="иллюстрация клубники">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757447682/lukoshko_njtpuz.jpg" alt="иллюстрация клубники">
 </figure>
 
 Пришли они к нему. Усадил Макар Мироныч всех гостей к богатому столу, а брата с невесткой в дальний угол. И не досталось им ни ложки, ни хлеба.

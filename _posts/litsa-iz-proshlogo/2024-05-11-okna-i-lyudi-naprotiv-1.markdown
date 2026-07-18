@@ -4,12 +4,12 @@ date:   2024-05-11 19:46:46 +0100
 categories: litsa-iz-proshlogo
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/0k1T1Ck0pfhJrxRfJGBcwF?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1757520092/kniga_1_p78rfy.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520092/kniga_1_p78rfy.jpg
 excerpt: "Лица знакомые и незнакомые. Ушедшие в прошлое, оставившие свой след на земле и в нашей памяти. Все, что было когда-то с ними стоит время от времени вспоминать. Не для всех это радостные страницы в нашей истории. Иногда они тяжелым бременем ложатся на душу и на сердце. А в некоторых случаях, наоборот вдохновляют кого-то на добрые дела, заставляют задуматься об ошибках и просчетах предыдущих поколений. Ничто не уходит навсегда в небытие. Прошлое рано или поздно обязательно напоминает о себе. Для того, чтобы следующие поколения становились лучше."
 ---
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757519748/kooperativykak-simvol-socialnogo-rassloenija-obshhestva_wcbfhu.jpg" alt="улица в царской России">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757519748/kooperativykak-simvol-socialnogo-rassloenija-obshhestva_wcbfhu.jpg" alt="улица в царской России">
 </figure>
 
 **Лица знакомые и незнакомые. Ушедшие в прошлое, оставившие свой след на земле и в нашей памяти. Все, что было когда-то с ними стоит время от времени вспоминать.**
@@ -31,7 +31,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 Иногда, кажется, что эти окна, как глаза. Затаившись, смотрят на тебя, и наблюдают за происходящим вокруг. Похоже, они заглядывают тебе прямо в душу. И прислушиваются к каждому шороху. Хотя, за занавесками не ощущается никаких движений. Может, все эти мысли обманчивы? И не стоит заглядывать в эти окна? Так будет спокойнее…    
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520173/okna-ljudej-naprotiv--rotated_fwnly1.jpg" alt="улица в Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520173/okna-ljudej-naprotiv--rotated_fwnly1.jpg" alt="улица в Батуми">
 <figcaption>Окна людей напротив.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 Сталинские репрессии не пустые слова для многих батумцев, как и для моей семьи…» — пишет Виктория Диасамидзе в своем предисловии к роману Жоржа Сименона, который она перевела.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520092/kniga_1_p78rfy.jpg" alt="обложка книги люди напротив">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520092/kniga_1_p78rfy.jpg" alt="обложка книги люди напротив">
 </figure>
 
 Честно признаюсь, весь ужас, происходящего в те времена, накрыл меня не сразу, а только после того, как я дочитал роман до конца. В этом состоит особенность творческого мастерства бельгийского писателя. Он будто бы наблюдает за происходящим, не погружаясь глубоко в оценку. Сосредотачиваясь на психологических переживаниях главного героя, которому, как и читателю, с самого начала абсолютно не понятно, что происходит в городе, куда он только что прибыл. У него и у читателя с каждой страницей постепенно нарастает страх, возникает чувство тревоги и безысходности, появляется ощущение будто твердая почва уходит из-под ног. И тогда единственным спасением для него становится бегство из этого абсолютно перекошенного мира. Похожие чувства, думаю, понятны многим и в наши дни.
@@ -60,7 +60,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 Виктория Диасамидзе – профессор Батумского государственного университета — рассказала мне, почему писатель выбрал такую непростую тему для своего романа.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520430/viktorija-diasamidze_d46g2t.webp" alt="Виктория Диасамидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520430/viktorija-diasamidze_d46g2t.webp" alt="Виктория Диасамидзе">
 <figcaption>Виктория Диасамидзе.</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 Нет, никого не было ни в комнате, ни на кухне, где виднелся кран над грязной раковиной.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520555/mesto-prozhivanija-glavnogo-geroja-romana-tureckogo-konsula-1_slefee.jpg" alt="Турецкое консульство в наше время">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520555/mesto-prozhivanija-glavnogo-geroja-romana-tureckogo-konsula-1_slefee.jpg" alt="Турецкое консульство в наше время">
 <figcaption>Место проживания главного героя романа – турецкого консула.</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 Лампы не зажигались. Это была авария, электричество всегда отключали в полночь. На ближайшей улице послышались шаги. Издавало звуки какое-то животное: то ли кошка, то ли собака.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520619/more-i-gory_q9j5gn.jpg" alt="вид на море и горы">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520619/more-i-gory_q9j5gn.jpg" alt="вид на море и горы">
 </figure>
 
 Интересно, в консульстве Италии тоже не было света? По крайней мере, на такой случай у них были припасены лампы. А у Адил-бея, который не курил, не было с собой даже спичек!
@@ -128,7 +128,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 Напомню, я побеседовал с профессором Батумского государственного университета Викторией Диасамидзе. И поинтересовался у нее, почему она взялась за перевод романа Жоржа Сименона «Люди напротив». Беседу с ней можно послушать в конце страницы.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520750/zh.simenon_jewmus.png" alt="Жорж Сименон за рабочим столом с трубкой">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520750/zh.simenon_jewmus.png" alt="Жорж Сименон за рабочим столом с трубкой">
 <figcaption>Жорж Сименон.</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 — Он может позвонить в ГПУ.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520869/zdanie-byvshego-morskogo-gpu-batumi-rotated_cogjwa.jpg" alt="голубое здание в Батуми">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520869/zdanie-byvshego-morskogo-gpu-batumi-rotated_cogjwa.jpg" alt="голубое здание в Батуми">
 <figcaption>Здание бывшего морского ГПУ Батуми.</figcaption>
 </figure>
 
@@ -206,7 +206,7 @@ excerpt: "Лица знакомые и незнакомые. Ушедшие в �
 — Мы ждем указаний из Москвы.»
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1757520976/zhorzh-simenon-na-nab.d-orseparizh_enchfq.jpg" alt="Жорж Сименон курит трубку в Париже">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1757520976/zhorzh-simenon-na-nab.d-orseparizh_enchfq.jpg" alt="Жорж Сименон курит трубку в Париже">
 <figcaption>Жорж Сименон на набережной д’Орсе, Париж.</figcaption>
 </figure>
 

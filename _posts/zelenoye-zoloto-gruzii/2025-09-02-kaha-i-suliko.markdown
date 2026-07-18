@@ -4,7 +4,7 @@ date:   2025-09-02 19:52:46 +0100
 categories: zelenoye-zoloto-gruzii
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/6mQv37fuW2245HcPpPGi3R?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1756847134/magazin-suliko-scaled_junzvk.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756847134/magazin-suliko-scaled_junzvk.jpg
 excerpt: "Я живу неподалеку от Чакви. Это местечко, куда когда-то был завезен китайский чайный куст. Со временем он прижился. И вскоре вокруг на горных склонах уже были разбиты чайные плантации. На них работали местные жители под присмотром китайцев, привезенных для того, чтобы научить обрабатывать чайное дерево, собирать чайный лист и делать из него заготовку для набиравшего тогда популярность чайного напитка. С тех пор прошло немало времени. Теперь все выглядит по-другому. Я иногда поднимаюсь по чаквинским склонам и спрашиваю у местных жителей, где можно увидеть чайные плантации. Они удивляются моему вопросу. И отвечают: здесь уже нигде. Чай здесь выращивали раньше."
 ---
 
@@ -27,7 +27,7 @@ excerpt: "Я живу неподалеку от Чакви. Это местеч�
 Через некоторое время мы встретились. И я узнал, что моего собеседника зовут Каха Цецхладзе. Он рассказал мне о том, почему, по его мнению, не стало чая на горных склонах вокруг Чакви. (Его рассказ можно послушать в конце страницы).
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756847016/kaha_ltto9m.jpg" alt="Каха Цецхладзе у кирпичной башни">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756847016/kaha_ltto9m.jpg" alt="Каха Цецхладзе у кирпичной башни">
 <figcaption>Каха Цецхладзе.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ excerpt: "Я живу неподалеку от Чакви. Это местеч�
 Он сразу же отказался со мной обсуждать эту тему. И мне пришлось трижды с ним встречаться. И каждый раз вместе с ним была его жена. Оказывается, она всю жизнь старается ему помочь во всех его делах и во всем его поддерживать. Вот я и попросил ее рассказать о Сулико.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756847134/magazin-suliko-scaled_junzvk.jpg" alt="прилавок в чайном магазине">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756847134/magazin-suliko-scaled_junzvk.jpg" alt="прилавок в чайном магазине">
 <figcaption>В чайном магазине Сулико.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ excerpt: "Я живу неподалеку от Чакви. Это местеч�
 Сулико Халваши производит, помимо традиционного черного и зеленого чая, еще и чай из листьев черники. Летом со своей продукцией он приезжает на пятачок. Так называют место в центре Чакви, где идет бойкая торговля всем, чем угодно. У Сулико есть тут свое место. На этом месте когда-то находилась его чайная фабрика.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756847345/20240726_122103-scaled_pwqm6h.jpg" alt="Сулико Халваши с женой у дегустационной стойки">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756847345/20240726_122103-scaled_pwqm6h.jpg" alt="Сулико Халваши с женой у дегустационной стойки">
 <figcaption>Сулико Халваши с женой на «пяточке» со своей чайной продукцией.</figcaption>
 </figure>
 

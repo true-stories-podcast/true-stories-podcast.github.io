@@ -4,7 +4,7 @@ date:   2025-07-08 19:50:46 +0100
 categories: zelenoye-zoloto-gruzii
 header:
     spotify_embed: '<iframe class="spotify-player" src="https://open.spotify.com/embed/episode/26ktlvah5halaIwVvczMCG?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/v1756056411/foto-iz-muzeja-bratev-nobelej._p1ewn2.jpg
+    teaser: https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756056411/foto-iz-muzeja-bratev-nobelej._p1ewn2.jpg
 excerpt: "Иной раз бывает, что подолгу обдумываешь какую-то тему, видишь, что очень непросто найти достоверные сведения. Время было давнее, многие документы и источники утрачены. Потомки свидетелей тех или иных событий затерялись во времени, и пространстве. Остались лишь отдельные строки, имена, сделанные вскользь упоминания в старой печати, которые не помогают воссоздать полную картину. И вдруг неожиданно и как будто случайно сталкиваешься с человеком, который довольно глубоко погружен в волнующую тебя тему. Занимался ею длительное время. Кроме того, его судьба, оказывается, тесно связана с этими событиями, которые были долгое время покрыты тайной."
 ---
 
@@ -19,7 +19,7 @@ excerpt: "Иной раз бывает, что подолгу обдумывае
 Упоминание о князьях Накашидзе несколько раз попадалось мне в воспоминаниях о прошлом. Они даже были тесно связаны и императорской фамилией. Представители этого рода оставили свой след и в истории Грузии. Среди этой династии есть военные специалисты, инженеры, которые внесли свой вклад в конструирование и создание автомобильной техники. Накашидзе были одними из первых, кто начал выращивать на своих землях грузинский чай и даже занимались его торговлей.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756056487/ul.-ninoshvili-27-dom-mihaila-nakashidze._zamxgc.jpg" alt="вид на балкон дома Михаила Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756056487/ul.-ninoshvili-27-dom-mihaila-nakashidze._zamxgc.jpg" alt="вид на балкон дома Михаила Накашидзе">
 <figcaption>Батуми, ул. Ниношвили № 27 — Дом Михаила Накашидзе.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ excerpt: "Иной раз бывает, что подолгу обдумывае
 В Википедии сказано, что Накашидзе – это грузинский княжеский род из Гурии. После присоединения Гурийского княжества к Российской империи — с 1850 года князья Накашидзе вошли в список княжеских родов Российской империи.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756056679/gerb-knjazej-nakashidze_rrzobp.png" alt="герб в виде щита">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756056679/gerb-knjazej-nakashidze_rrzobp.png" alt="герб в виде щита">
 <figcaption>Герб князей Накашидзе.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ excerpt: "Иной раз бывает, что подолгу обдумывае
 В прошлом году я случайно познакомился с представителем рода князей Накашидзе. Он на несколько летних месяцев приезжает в Батуми, где устраивает экскурсии по Аджарии для туристов. Нодар Накашидзе с 2009 года является председателем совета старейшин неправительственной ассоциации «Родословные князья Накашидзе», которая прошла государственную регистрацию в Тбилиси.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756056875/nodar-nakashidze.-scaled_zm78od.jpg" alt="Нодар Накашидзе смотрит на свой телефон">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756056875/nodar-nakashidze.-scaled_zm78od.jpg" alt="Нодар Накашидзе смотрит на свой телефон">
 <figcaption>Нодар Накашидзе.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ excerpt: "Иной раз бывает, что подолгу обдумывае
 Так неожиданно я узнал о многовековой историю рода князей Накашидзе и их вкладе развитие чаеводства на территории Грузии. И начал свой рассказ Нодар Накашидзе с основателя рода Михаила Михайловича, сведения о котором ему удалось найти в исторических документах.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756056984/mihail-mahajlovich-nakashidze_ftkvqx.jpg" alt="портрет Михаила Михайловича Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756056984/mihail-mahajlovich-nakashidze_ftkvqx.jpg" alt="портрет Михаила Михайловича Накашидзе">
 <figcaption>Михаил Михайлович Накашидзе.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ excerpt: "Иной раз бывает, что подолгу обдумывае
 Попов попросил Накашидзе не называть свой чай грузинским, а называть его российским. Князь отказался от этого. Тогда Попов попросил писать его название просто «Чай князя Михаила Накашидзе». Он согласился. Для доказательства этой истории Нодар порекомендовал сходить в Технологический музей братьев Нобелей, что в Батуми. В нем представлены некоторые достижения Грузии в отдельных отраслях. Там есть и фотография названия чая, который поставлялся на рынок князьями Накашидзе. Я сходил в музей. И могу подтвердить, да, действительно есть
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756056411/foto-iz-muzeja-bratev-nobelej._p1ewn2.jpg" alt="знак князя Накашидзе">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756056411/foto-iz-muzeja-bratev-nobelej._p1ewn2.jpg" alt="знак князя Накашидзе">
 <figcaption>Фотография из музея братьев Нобелей.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ excerpt: "Иной раз бывает, что подолгу обдумывае
 Оказывается, фамилия князей Накашидзе имеет арабские корни. Слово «накаш» переводится с арабского как художник. Первый представитель этой фамилии был градоначальником города Дярберхира у реки Евфрат. После вхождения египтян в Колхидскую долину Накашидзе навсегда осели в Гурии.
 
 <figure class="align-center">
-<img src="https://res.cloudinary.com/dqt3l509c/image/upload/v1756057230/broneavtomobil-nakashidze-sharron-na-ispytanijah.-1906-god._ifhrvg.jpg" alt="Бронеавтомобиль во время испытания">
+<img src="https://res.cloudinary.com/dqt3l509c/image/upload/c_limit,w_1920,q_auto,f_auto/v1756057230/broneavtomobil-nakashidze-sharron-na-ispytanijah.-1906-god._ifhrvg.jpg" alt="Бронеавтомобиль во время испытания">
 <figcaption>Бронеавтомобиль «Накашидзе-Шаррон» на испытаниях. 1906 год.</figcaption>
 </figure>
 
